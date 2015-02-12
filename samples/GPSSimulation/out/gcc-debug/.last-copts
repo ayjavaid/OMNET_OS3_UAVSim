@@ -1,0 +1,1 @@
+-g -Wall -fPIC  -fno-stack-protector -DHAVE_SWAPCONTEXT  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER -DINET_IMPORT -I. -Iimages -Iimages/weatherIcons -I/home/fjahan/Desktop/omnetpp-4.4.1/include

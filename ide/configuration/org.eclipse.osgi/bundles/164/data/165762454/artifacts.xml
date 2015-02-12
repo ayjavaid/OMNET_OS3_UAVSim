@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='/home/fjahan/Desktop/omnetpp-4.4.1/ide/.eclipseextension' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1423778059493'/>
+    <property name='org.eclipse.update.site.policy' value='USER-EXCLUDE'/>
+    <property name='org.eclipse.update.site.list' value=''/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='24'>
+    <artifact classifier='osgi.bundle' id='org.omnetpp.ide.nativelibs.macosx' version='4.4.0.140307-1086eab'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.omnetpp.ide.nativelibs.macosx_4.4.0.140307-1086eab/'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.omnetpp.ide.nativelibs.macosx_4.4.0.140307-1086eab'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.launcher.gtk.linux.x86' version='1.1.200.v20130807-1835'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_1.1.200.v20130807-1835/'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_1.1.200.v20130807-1835'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.compare.win32' version='1.0.200.v20130514-1224'>
+      <properties size='2'>
+        <property name='artifact.size' value='39199'/>
+        <property name='download.size' value='39199'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.compare.win32_1.0.200.v20130514-1224.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.compare.win32_1.0.200.v20130514-1224.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.security.win32.x86' version='1.0.300.v20130327-1442'>
+      <properties size='2'>
+        <property name='artifact.size' value='22912'/>
+        <property name='download.size' value='22912'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.security.win32.x86_1.0.300.v20130327-1442.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.security.win32.x86_1.0.300.v20130327-1442.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.filesystem.win32.x86' version='1.4.0.v20121112-0948'>
+      <properties size='2'>
+        <property name='artifact.size' value='27628'/>
+        <property name='download.size' value='27628'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.filesystem.win32.x86_1.4.0.v20121112-0948.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.filesystem.win32.x86_1.4.0.v20121112-0948.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.launcher.cocoa.macosx' version='1.1.200.v20130807-1835'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.launcher.cocoa.macosx_1.1.200.v20130807-1835/'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.launcher.cocoa.macosx_1.1.200.v20130807-1835'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.filesystem.linux.x86' version='1.4.100.v20130430-1334'>
+      <properties size='2'>
+        <property name='artifact.size' value='10246'/>
+        <property name='download.size' value='10246'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.filesystem.linux.x86_1.4.100.v20130430-1334.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.filesystem.linux.x86_1.4.100.v20130430-1334.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swt.win32.win32.x86' version='3.102.1.v20130827-2048'>
+      <properties size='2'>
+        <property name='artifact.size' value='2696482'/>
+        <property name='download.size' value='2696482'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.swt.win32.win32.x86_3.102.1.v20130827-2048.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.swt.win32.win32.x86_3.102.1.v20130827-2048.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.resources.win32.x86' version='3.5.100.v20100505-1741'>
+      <properties size='2'>
+        <property name='artifact.size' value='17987'/>
+        <property name='download.size' value='17987'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.resources.win32.x86_3.5.100.v20100505-1741.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.resources.win32.x86_3.5.100.v20100505-1741.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swt.gtk.linux.x86' version='3.102.1.v20130827-2048'>
+      <properties size='2'>
+        <property name='artifact.size' value='2419762'/>
+        <property name='download.size' value='2419762'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.swt.gtk.linux.x86_3.102.1.v20130827-2048.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.swt.gtk.linux.x86_3.102.1.v20130827-2048.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.net.linux.x86' version='1.1.300.v20130430-1352'>
+      <properties size='2'>
+        <property name='artifact.size' value='37777'/>
+        <property name='download.size' value='37777'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.net.linux.x86_1.1.300.v20130430-1352.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.net.linux.x86_1.1.300.v20130430-1352.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core.macosx' version='5.2.0.201309180223'>
+      <properties size='2'>
+        <property name='artifact.size' value='35978'/>
+        <property name='download.size' value='35978'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.cdt.core.macosx_5.2.0.201309180223.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.cdt.core.macosx_5.2.0.201309180223.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core.win32' version='5.3.0.201309180223'>
+      <properties size='2'>
+        <property name='artifact.size' value='12675'/>
+        <property name='download.size' value='12675'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.cdt.core.win32_5.3.0.201309180223.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.cdt.core.win32_5.3.0.201309180223.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.filesystem.macosx' version='1.3.0.v20100505-2103'>
+      <properties size='2'>
+        <property name='artifact.size' value='13627'/>
+        <property name='download.size' value='13627'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.filesystem.macosx_1.3.0.v20100505-2103.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.filesystem.macosx_1.3.0.v20100505-2103.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swt.cocoa.macosx' version='3.102.1.v20130827-2048'>
+      <properties size='2'>
+        <property name='artifact.size' value='2369703'/>
+        <property name='download.size' value='2369703'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.swt.cocoa.macosx_3.102.1.v20130827-2048.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.swt.cocoa.macosx_3.102.1.v20130827-2048.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core.linux.x86' version='5.2.0.201309180223'>
+      <properties size='2'>
+        <property name='artifact.size' value='18730'/>
+        <property name='download.size' value='18730'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.cdt.core.linux.x86_5.2.0.201309180223.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.cdt.core.linux.x86_5.2.0.201309180223.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.omnetpp.ide.nativelibs.win32.x86' version='4.4.0.140307-1086eab'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.omnetpp.ide.nativelibs.win32.x86_4.4.0.140307-1086eab/'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.omnetpp.ide.nativelibs.win32.x86_4.4.0.140307-1086eab'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.launcher.win32.win32.x86' version='1.1.200.v20130807-1835'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.launcher.win32.win32.x86_1.1.200.v20130807-1835/'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.launcher.win32.win32.x86_1.1.200.v20130807-1835'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.net.win32.x86' version='1.0.100.v20100505-1614'>
+      <properties size='2'>
+        <property name='artifact.size' value='30714'/>
+        <property name='download.size' value='30714'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.net.win32.x86_1.0.100.v20100505-1614.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.core.net.win32.x86_1.0.100.v20100505-1614.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.security.macosx' version='1.100.200.v20130327-1442'>
+      <properties size='2'>
+        <property name='artifact.size' value='16683'/>
+        <property name='download.size' value='16683'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.security.macosx_1.100.200.v20130327-1442.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.equinox.security.macosx_1.100.200.v20130327-1442.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core.win32.x86' version='5.2.0.201309180223'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.cdt.core.win32.x86_5.2.0.201309180223/'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.cdt.core.win32.x86_5.2.0.201309180223'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.win32' version='3.2.400.v20130516-1056'>
+      <properties size='2'>
+        <property name='artifact.size' value='25554'/>
+        <property name='download.size' value='25554'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.ui.win32_3.2.400.v20130516-1056.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.ui.win32_3.2.400.v20130516-1056.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.workbench.renderers.swt.cocoa' version='0.11.100.v20130516-1100'>
+      <properties size='2'>
+        <property name='artifact.size' value='38453'/>
+        <property name='download.size' value='38453'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.e4.ui.workbench.renderers.swt.cocoa_0.11.100.v20130516-1100.jar'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.eclipse.e4.ui.workbench.renderers.swt.cocoa_0.11.100.v20130516-1100.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.omnetpp.ide.nativelibs.linux.x86' version='4.4.0.140307-1086eab'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.omnetpp.ide.nativelibs.linux.x86_4.4.0.140307-1086eab/'/>
+        <property name='file.name' value='/home/fjahan/Desktop/omnetpp-4.4.1/ide/plugins/org.omnetpp.ide.nativelibs.linux.x86_4.4.0.140307-1086eab'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

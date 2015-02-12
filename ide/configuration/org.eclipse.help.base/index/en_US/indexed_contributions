@@ -1,0 +1,19 @@
+#This is a generated file; do not edit.
+#Thu Feb 12 16:54:45 EST 2015
+org.eclipse.epp.mpc.ui=org.eclipse.epp.mpc.ui\n1.2.1.I20130917-2019
+org.eclipse.ui.intro.universal=org.eclipse.ui.intro.universal\n3.2.600.v20130326-1254
+org.eclipse.cdt=org.eclipse.cdt\n8.2.1.201309180223
+org.eclipse.platform=org.eclipse.platform\n4.3.1.v20130911-1000
+org.eclipse.platform.doc.user=org.eclipse.platform.doc.user\n4.3.0.v20130605-1059
+org.eclipse.linuxtools.cdt.libhover.library.docs=org.eclipse.linuxtools.cdt.libhover.library.docs\n1.0.2.201309171939
+org.eclipse.linuxtools.cdt.libhover.glibc=org.eclipse.linuxtools.cdt.libhover.glibc\n1.2.0.201309171939
+org.eclipse.ui.cheatsheets=org.eclipse.ui.cheatsheets\n3.4.200.v20130326-1254
+org.omnetpp.doc=org.omnetpp.doc\n4.4.1.140307-1086eab
+org.eclipse.cdt.doc.user=org.eclipse.cdt.doc.user\n5.3.0.201309180223
+org.eclipse.egit.doc=org.eclipse.egit.doc\n3.0.3.201309161630-r
+org.eclipse.epp.mpc.help.ui=org.eclipse.epp.mpc.help.ui\n1.2.1.I20130917-2019
+org.eclipse.help=org.eclipse.help\n3.6.0.v20130326-1254
+org.eclipse.help.base=org.eclipse.help.base\n4.0.0.v20130911-1000
+org.eclipse.ui.intro=org.eclipse.ui.intro\n3.4.200.v20130326-1254
+org.eclipse.linuxtools.valgrind.doc=org.eclipse.linuxtools.valgrind.doc\n1.0.0.201309171939
+org.eclipse.linuxtools.profiling.docs=org.eclipse.linuxtools.profiling.docs\n1.0.0.201309171939

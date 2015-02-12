@@ -1,0 +1,3134 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: go5tzN7fzFvgvW9autUmiTEvuN8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: Z/wCSvLjNXENIQP3nuSuxtsGr30=
+
+Name: images/next.gif
+SHA1-Digest: 7eIXk/QhlkWGLM1N3WkKTDeCxAs=
+
+Name: tasks/cdt_t_run_config.htm
+SHA1-Digest: OqYDF2e6pTs0htFJK5s2vv8zhAk=
+
+Name: contexts_CDT_LAUNCH.xml
+SHA1-Digest: BW1aa6wkzWAWOtExqtZ21PvGipg=
+
+Name: images/run_environment.png
+SHA1-Digest: Jow8gwesEkpw/1VObT2jSMrOwNQ=
+
+Name: images/c_object_file.png
+SHA1-Digest: DF66A22sV8urnGKC/8bF7TkU7+M=
+
+Name: reference/cdt_u_properties_view.htm
+SHA1-Digest: DETHAl8o5RXwC2JYdXVso/lvTwI=
+
+Name: images/pref_panel_edit_template_dlg.png
+SHA1-Digest: MMTDJEGL4XmYT5WGZfIB0fTAKUo=
+
+Name: tasks/cdt_t_memory.htm
+SHA1-Digest: z2JKElZYoYUoK2zvmeiGwVYcWNI=
+
+Name: images/c_ovr.gif
+SHA1-Digest: 6jvjjUHgaiqM9BkJxuRsPvaTAB8=
+
+Name: reference/cdt_u_prop_build_discovery.htm
+SHA1-Digest: bOaV6C1h0nYGS72rIRjGeeyLlIU=
+
+Name: reference/cdt_u_editor_view.htm
+SHA1-Digest: bErX3krmoXaR0tqvJq0pWk0zuhw=
+
+Name: images/cdt_w_cpp_perspectx.png
+SHA1-Digest: vyvdtAtCAodCeN+QNk2R/v/76vU=
+
+Name: images/icon_db_terminate_relaunch.png
+SHA1-Digest: rZQz/ux5XEr7daJAmcD8VbZErDI=
+
+Name: images/view_call_hierarchy.png
+SHA1-Digest: 5KYKJxCbGZLMkQBDxeCLkmgGJXk=
+
+Name: images/icon_filter_vars_etc.png
+SHA1-Digest: XafGEwAlgGptyZxH9Gm1YoOT884=
+
+Name: images/task_binary_parser.png
+SHA1-Digest: dxFpamUcYKvq18H2vvA/HepJvqQ=
+
+Name: images/60/refactorExtractLocalVar.png
+SHA1-Digest: 3tKhiVPyNUXSzMgG8N/XtDs5JVo=
+
+Name: tasks/cdt_t_debug_exes.htm
+SHA1-Digest: hCsRfW6sN07Icdr0it1YEyOq5z0=
+
+Name: images/icon_db_step_mode.png
+SHA1-Digest: Qd7dO9qnSJ3CidprcQZmNaBp1dI=
+
+Name: concepts/cdt_o_build_conc.htm
+SHA1-Digest: e+xlDDxh+cCNtbGADzPPnj/2398=
+
+Name: intro/swt/overview.properties
+SHA1-Digest: tJg0HCZQk5GqGfCNGD+a87AbnI8=
+
+Name: images/make_settings_prefs.png
+SHA1-Digest: QBKqGF8Iakr+2nJIau+IW7Ak2nI=
+
+Name: images/cdt81/frameworks.png
+SHA1-Digest: FKz9IsXxQh/1TemoD1qE+YKtHlU=
+
+Name: images/icon_link_with_editor.png
+SHA1-Digest: aErWclN9A5byhWKRaNqlT0z5b6k=
+
+Name: images/cdt82/MakeEditorBracketMatching.png
+SHA1-Digest: uM53kHes621lgKGP27jh0SBhrBM=
+
+Name: images/prop_lang.png
+SHA1-Digest: 5uL4MShvpJj0zB7kEFm4khH38NA=
+
+Name: tasks/cdt_o_builderrors.htm
+SHA1-Digest: ud8UYICydJiulfD1ddeTMkX61QY=
+
+Name: images/prop_builders_newbldr.png
+SHA1-Digest: PDVzG8qWXdhV/zpjoylZ/uf8Xp4=
+
+Name: images/fields_co.gif
+SHA1-Digest: Wl7hL/BUBtb04HVRl7myQx5+VUQ=
+
+Name: reference/cdt_u_dissassembly_view.htm
+SHA1-Digest: eCaSfsBPb41/T0VH5DAj6M1TkFI=
+
+Name: images/prop_outloc.png
+SHA1-Digest: 4QSGlWUB+ZNG+DRt9ICUGiaxl1I=
+
+Name: concepts/cdt_o_home.htm
+SHA1-Digest: JpIYkqFkGy0rEAKLktpc2+gHU5U=
+
+Name: images/prop_exp.png
+SHA1-Digest: TyaPeoy5AQrhcfiWXMzVe0Uth6o=
+
+Name: images/icon_info.gif
+SHA1-Digest: cc088UfJbb4fXPWUIbKG12Xl0sM=
+
+Name: images/cdt_file_tcedit.png
+SHA1-Digest: ac5fLw59bEzP60Ieb0snrJZ358o=
+
+Name: images/new_proj_wz_name.png
+SHA1-Digest: zJJaSe5/5xn7OfZQ05ZUt1+2Yb4=
+
+Name: tasks/cdt_t_new_make.htm
+SHA1-Digest: lLY5/YUb9UjtY3sKsB3qAh7rbgk=
+
+Name: images/icon_con_clear.png
+SHA1-Digest: z4ISJ1VRgTm/gS+Tg4h2ZJzOhow=
+
+Name: images/80/Bug_307211.png
+SHA1-Digest: s+qiBFm+cMIy6cvsOqtcjdQLRr8=
+
+Name: images/define_obj.gif
+SHA1-Digest: qAn/Njh4BUbwGCV/3aVkeC+EWzA=
+
+Name: reference/cdt_u_prop_resource.htm
+SHA1-Digest: RfSasHEdZ6MTxd8725SttT9REeA=
+
+Name: images/cdt_w_standard01.png
+SHA1-Digest: THsp5gFHY6m5L17FAAO8VBs06Kg=
+
+Name: images/cdt_w_basic08.png
+SHA1-Digest: XFBb9kXFIeonqwJLktnkNkijATs=
+
+Name: images/path_inherit_co.gif
+SHA1-Digest: J764sKXgCY+DebnHC4MvL4K7cNs=
+
+Name: images/view_appearance_prefs.png
+SHA1-Digest: 2PYzCGRLKOlPZz0A/cpnzRRkjo8=
+
+Name: images/60/CDT_6.0_delete.png
+SHA1-Digest: jJ9CBMsxYkAf4r5UNfr4dLbQhDk=
+
+Name: images/scanner_discovery/sd_project_explorer.png
+SHA1-Digest: CTtbttxQ8xicdKwOaW8+XGl1Kzk=
+
+Name: tasks/cdt_t_run_source.htm
+SHA1-Digest: 2l7UqabZxUzYjAxi1cZlC2Eknk0=
+
+Name: images/struct_obj.gif
+SHA1-Digest: F7oKQtPiFzBLvtBxbTjzacPWmWk=
+
+Name: concepts/cdt_o_concepts.htm
+SHA1-Digest: D/be/z9nwBFlMwtdf2KRerHE5bQ=
+
+Name: images/prop_builders_editbldr.png
+SHA1-Digest: sBD4mPQaWkADnk1GGoetwmbNJsw=
+
+Name: images/cdt_set_src_folder.png
+SHA1-Digest: 0je2ZZ0zaS7RZOS33OL3icxqZ3k=
+
+Name: images/cdt_w_standard12.png
+SHA1-Digest: lMmH7CuvcQjBVX+ay/PEJvkIdpU=
+
+Name: getting_started/cdt_w_newmake.htm
+SHA1-Digest: OsHyTBl02r4CaTBu87Gm4lAuO8g=
+
+Name: images/cdt_w_basic19.png
+SHA1-Digest: H0v6JFl1Svf2gDCyLdAc0c5JzDc=
+
+Name: images/icon_resume_signal.png
+SHA1-Digest: vGnXZCMR//nJM5m1Dwyp1CiMMTk=
+
+Name: reference/cdt_o_ref.htm
+SHA1-Digest: GHuErqb22Lp5kU5H4zs7g7OJW5s=
+
+Name: tasks/cdt_t_open_declarations.htm
+SHA1-Digest: 4nMvo1zCbSXW5X5uChs++WTlO4w=
+
+Name: images/mpref.png
+SHA1-Digest: UpqHwDVwi5B9Y6LKOmUzIOEQmJ0=
+
+Name: reference/cdt_u_search.htm
+SHA1-Digest: t5P/Jtquzwr3OxW/65XgBH39FMA=
+
+Name: reference/cdt_u_appearance_pref.htm
+SHA1-Digest: dq9UZxMJzjm+Nu2FQr4f0lNrb9o=
+
+Name: reference/cdt_u_c_code_templates_pref.htm
+SHA1-Digest: k8nVMRhp0W6AQ9WG+k3GkdzSJcQ=
+
+Name: concepts/cdt_c_indexer.htm
+SHA1-Digest: di2WRHEiujKvHOy0U4sRWYNf1Pc=
+
+Name: images/icon_db_launch_instance.png
+SHA1-Digest: igf/AOtohg5ENppUKMuOv15UmXY=
+
+Name: images/60/Run_debug_launch_group.png
+SHA1-Digest: Ru5PZUEpU5yYsMIha/aN+etIfLI=
+
+Name: reference/cdt_u_prop_general_sd_entries.htm
+SHA1-Digest: BxkyqUR6mr70sG2HQ9twJ5v0qow=
+
+Name: images/icon_switch_mem_monitor.png
+SHA1-Digest: WrxUfnhRKKZA0WhvlGzTyc2xjH8=
+
+Name: images/70/CDT70_Outlinegroupmacros.png
+SHA1-Digest: DFFJrRp8121mD7hOkDHGmzCPTa4=
+
+Name: reference/cdt_u_prop_all.htm
+SHA1-Digest: d1nqms8m00PM4/Hub4WlNweLLE0=
+
+Name: concepts/cdt_c_proj_file_views.htm
+SHA1-Digest: T2zAMABdm0A84Ev6FSgOzhe/oRw=
+
+Name: images/cdt_w_bin.png
+SHA1-Digest: nsGQRIMR2v5ytPivLvExqvf9FoU=
+
+Name: images/BuildConsole.png
+SHA1-Digest: s5wgYDcaPb+wF773uzfGzgcknh8=
+
+Name: images/find_replace_dialog.png
+SHA1-Digest: ITLli9KzZuP8FJhEd0texgTgNdE=
+
+Name: concepts/cdt_c_brkpnts.htm
+SHA1-Digest: q7i6rlxqahkwbnIRXJOhURD8t5k=
+
+Name: reference/cdt_u_m_project.htm
+SHA1-Digest: Mc4ECskVVli95bsFLSd0wNY4EeA=
+
+Name: reference/cdt_u_m_refactor.htm
+SHA1-Digest: l2ibWLKx0bDhaQp911pF1iuqDKs=
+
+Name: reference/cdt_u_prop_general_pns_ref.htm
+SHA1-Digest: k5i+lhwiEjdVivDr6x2ucPjzbfc=
+
+Name: images/cdt_file_toolsett.png
+SHA1-Digest: 4QhyI8POz+2/k/Axy7RTVjVaFxU=
+
+Name: reference/cdt_u_newproj_discovery_options.htm
+SHA1-Digest: hlyGe4fgsg9ItQstNUcWgBV+DjI=
+
+Name: images/trans.gif
+SHA1-Digest: 9oBum8IvkYMC5IBcCC+HQqOLIwY=
+
+Name: images/icon_debug_exc.gif
+SHA1-Digest: LB2jJ4rAFpUjmHfST/qO4Zug0Zo=
+
+Name: images/cdt81/anonymous.png
+SHA1-Digest: GSt1KxqrbgYK8Na4L2wXTElRY0I=
+
+Name: images/cdt82/MINGW_HOME.png
+SHA1-Digest: zQbr1i1/hZLAYXwdnmKL1aFnp8E=
+
+Name: images/prop_mng_rename.png
+SHA1-Digest: 2az5GYScvWoWQrajJO8BRF66zsY=
+
+Name: concepts/cdt_c_templates.htm
+SHA1-Digest: luUzJ5hfrsrDydTMOz5xwJkzV2w=
+
+Name: images/mark_occurrences.png
+SHA1-Digest: OXSrHVHIrcAfpxGwc8HqPKH0iKc=
+
+Name: images/80/FullPrettyPrint.png
+SHA1-Digest: FClO5A1RfKE91KXXlImev4lSZ4o=
+
+Name: reference/cdt_u_gdb_mi.htm
+SHA1-Digest: Go1i8Y51RttXvIF6eaMT4bdj/R8=
+
+Name: images/hammer-icon.png
+SHA1-Digest: g/sNxl3UH5gGstw463llAi5awzE=
+
+Name: reference/cdt_u_pref_task_tags.htm
+SHA1-Digest: 1YxhJy0zB8XFz3VDoaJhJXHeq80=
+
+Name: images/cdt_w_basic07.png
+SHA1-Digest: SP+FBWCT+wA+hTEK98/NYD5jopM=
+
+Name: images/80/RenameInWorkspace.png
+SHA1-Digest: Rpqy0R8F4BE9yGi4TRWBQv9CxNs=
+
+Name: images/discovery_preferences.png
+SHA1-Digest: AM7deN34ZpHCwkTIH12/HnvIaS4=
+
+Name: reference/cdt_u_prop_build_settings_artifact.htm
+SHA1-Digest: gLxtAdUPV24KtatrhJolHVGoL6k=
+
+Name: tasks/cdt_t_run_dbg.htm
+SHA1-Digest: PTTQGea2jVGcoCFHSL6CwK/6WMk=
+
+Name: images/icon_con_max.png
+SHA1-Digest: z931DOpvRVJicojcAbBJ14J93nY=
+
+Name: reference/cdt_u_language_mapping_pref.htm
+SHA1-Digest: NcKOuxITLZtb5q71O60bGoZHKcM=
+
+Name: images/search.png
+SHA1-Digest: WbiZHx7/4VOabMvyFshLhvqLFwU=
+
+Name: concepts/cdt_c_dbg_info.htm
+SHA1-Digest: 1oay7YY0Uvwnr3+lPMR49Snj7sc=
+
+Name: images/cdt_w_standard11.png
+SHA1-Digest: zlEcQ29WhJd2aLhOMJnxM79gD7c=
+
+Name: images/cdt_w_basic18.png
+SHA1-Digest: 75cC4f6AYmVwoG8MWaAdCER2NSw=
+
+Name: tasks/cdt_t_filtererror.htm
+SHA1-Digest: uMna4u4RcqlV/Nk1+t6b+OIFkvY=
+
+Name: images/icon_show_error.png
+SHA1-Digest: Z6iXXaz553cW8Cy4wivjznzczI8=
+
+Name: images/new_proj_wz_toolchain.png
+SHA1-Digest: Iw3OTEcCx1V8JDKAFK7/bx4rw1c=
+
+Name: images/60/refactor_before.png
+SHA1-Digest: GDPU23doNiX8LgvoqJ6C8EWK5Jg=
+
+Name: tasks/cdt_t_run_arg.htm
+SHA1-Digest: Rl6CgTsIVz54Pyza08skglI9JeQ=
+
+Name: images/alphab_sort_co.gif
+SHA1-Digest: h7yinCTrAt6AbltqbXUo5Yyn+Eg=
+
+Name: images/80/CDTNameResolutionFix.png
+SHA1-Digest: 8GK/aVtlgGx2JAsgQEXDbIxysBg=
+
+Name: reference/cdt_u_m_search.htm
+SHA1-Digest: a0MqjGKxYPYCVZQz3yZTgGMbJqY=
+
+Name: images/cdt81/parallelbuild.png
+SHA1-Digest: seAjWnCmo39jM7zR+QLJkoPvrxw=
+
+Name: reference/cdt_u_pref_multi_cfg.htm
+SHA1-Digest: r+ZF9K0TQ2mYBKmK9Gxp+EmE9nQ=
+
+Name: reference/cdt_u_cproj_view.htm
+SHA1-Digest: quvtRwvV+YrpCok7fEkU9EtzXhY=
+
+Name: reference/cdt_u_m_run.htm
+SHA1-Digest: hGxF4wEAloiclChgUvA9oUzjpWI=
+
+Name: images/80/CDTGlobalBuildConsole.jpg
+SHA1-Digest: cViUshmk6ZjHcwcoWPnife8oRgY=
+
+Name: images/project_new_file.png
+SHA1-Digest: er5pcQLWX1o8cZDD2Fi8MAjXA9k=
+
+Name: tasks/cdt_t_convert_mbs20_proj.htm
+SHA1-Digest: Nxr+lWQq9YiLmEL0ALEnUqHk/Fs=
+
+Name: reference/cdt_u_new_proj_wiz_name.htm
+SHA1-Digest: qXFewNeZoMafKx3UI2iy3wG10Pk=
+
+Name: images/cdt81/auto_hover.png
+SHA1-Digest: 9eKAKOStASlWsGyRADYvcGFHkKk=
+
+Name: intro/swt/tutorial.properties
+SHA1-Digest: OxyXe2QNtIUs+UQtUQuFPNYcGoE=
+
+Name: images/edited_ovr.gif
+SHA1-Digest: ONKGZBZdDWXN1tn7z62YKTnsfmI=
+
+Name: images/nn_indexer_prefs.png
+SHA1-Digest: 1+xI9paKHs9Rt2ILIHs95wVMZ4Q=
+
+Name: images/make_targets.png
+SHA1-Digest: moJ5kVBUVY78x0oXU7EW9rtrVSQ=
+
+Name: images/icon_toggle_split_pane.png
+SHA1-Digest: lZshQxkkYCBQ+meEdtRNkVnEzVc=
+
+Name: images/editor_typing_preferences.png
+SHA1-Digest: GJOeG5Lr5w9FWu+oEILTtoaP9MA=
+
+Name: reference/cdt_u_c_editor_gen.htm
+SHA1-Digest: zTxwEz27bCkAys4wcCSNFSCMRTk=
+
+Name: images/cdt_pref_build_console.png
+SHA1-Digest: ioaL7m7kAyowDyg/M6VwqUjsytA=
+
+Name: images/ref-79.gif
+SHA1-Digest: 35bkOqMB0I2PeODZPLZSQcohI6o=
+
+Name: images/icon_wset_edit.png
+SHA1-Digest: cZfAHjZXutL5Bct8tyZjXWD/JlA=
+
+Name: images/cdt_pref_file_types.png
+SHA1-Digest: UiluN41ecfhTLm8hyuBVIb2ngo8=
+
+Name: images/70/CDT70_Surroundwith.png
+SHA1-Digest: W0BZZq44AQ2TN9ZrrYG+PQGF5rw=
+
+Name: images/80/LaunchDefaultGdb.png
+SHA1-Digest: IITB3+38QqCtsYX8AGrpyrsLCI8=
+
+Name: tasks/cdt_t_proj_error_parser.htm
+SHA1-Digest: 2zJBSxbkOA2FWamroBpsKOtTcCM=
+
+Name: reference/cdt_u_fileprop_sym.htm
+SHA1-Digest: oVp6GVWIEHm83Es7nA8eiE9zFY4=
+
+Name: concepts/cdt_o_dbg_concepts.htm
+SHA1-Digest: LxdkO1/7W7Uo5bN8K7hkShftN8s=
+
+Name: getting_started/cdt_w_existing_code.htm
+SHA1-Digest: wnjC8QtsjbiF5/jKGTXp2huUQDk=
+
+Name: images/icon_repeat_search.png
+SHA1-Digest: JUx1gACM85IGc3N39oaeLZwNdGk=
+
+Name: images/ngref.gif
+SHA1-Digest: cl67XdFqRgTfGAPTPi7ssOe/BS4=
+
+Name: images/editor_mark_preferences.png
+SHA1-Digest: ykKZPd5M8tA4Na/A7pV6gaj/jEo=
+
+Name: images/cdt81/timeoutadvanced.png
+SHA1-Digest: vMasxvT2eGEAwDBvJVh/E0FsaX0=
+
+Name: images/cdt_w_basic06.png
+SHA1-Digest: fTH21EpVwlY2JlX6CNp7WdiaN7s=
+
+Name: images/icon_copy_to_clipboard.png
+SHA1-Digest: kc7nmMidiW4jecGUVaPRj66EYO4=
+
+Name: images/80/Cdt_t_toggle_member.png
+SHA1-Digest: ZAFY+WqtP3Lg6CkMvLFEVLJ/g+w=
+
+Name: images/icon_db_stepreturn.png
+SHA1-Digest: zTwi0/FXiHYYUADUDGocjt5i9is=
+
+Name: reference/cdt_u_c_editor_save_actions.htm
+SHA1-Digest: xLfAsn1cCRq4Y0Pht+q3EQtSb08=
+
+Name: images/icon_terminate_all.gif
+SHA1-Digest: 7v6UPjzFXu59Qr33t0xa7J+PJ0M=
+
+Name: images/icon_new.png
+SHA1-Digest: sXJDWfsqYY2NkWvb7J+tXCm6fgQ=
+
+Name: intro/css/sample.css
+SHA1-Digest: nA/6DQZVL+DzXNYUbYDEN7bh1EE=
+
+Name: reference/cdt_u_m_navigate.htm
+SHA1-Digest: t5uoTOFnkEWvRXSu1JaIWgpYV40=
+
+Name: images/icon_clear_console.png
+SHA1-Digest: jV22VYmxzXBU+TQKVOZaFWEY+a4=
+
+Name: images/contentAssist_adv_preferences.png
+SHA1-Digest: NON2u3Gp/v7ixgpi/OXaYtjnR0M=
+
+Name: tasks/cdt_t_add_custom_persp.htm
+SHA1-Digest: esXfQ++V+75TrAGnioZ8c/IIpQA=
+
+Name: images/project_rename.png
+SHA1-Digest: waRxdkFPiHrbV6eJPAhQZWkxl8M=
+
+Name: reference/cdt_u_prop_general_idx.htm
+SHA1-Digest: IiTqvMbrORaTuz1AR0YJgGDwJNQ=
+
+Name: concepts/cdt_c_indexer_fullindexer.htm
+SHA1-Digest: MDloITnoIqOhlu5JcCLTQ/C6jbU=
+
+Name: reference/cdt_u_console_view.htm
+SHA1-Digest: oXjx8CQVJIs145lbwsF3VDoI4Ok=
+
+Name: images/scanner_discovery/sd_specs_detector_options.png
+SHA1-Digest: err/ad6REsLCLrtlJdY0KaHTKeY=
+
+Name: reference/cdt_u_dbg_brkpt_actions.htm
+SHA1-Digest: fxX2AThF/P05G4o6+eovc7YTPYQ=
+
+Name: images/scanner_discovery/sd_prop_add_include.png
+SHA1-Digest: 81BnSXWC3vRkEBH0m4BrricirZk=
+
+Name: tasks/cdt_o_run.htm
+SHA1-Digest: WegoI6f6dv/YqX1ynZ0ZR3Ti2FA=
+
+Name: images/cdt_w_viewMenuFilters2.png
+SHA1-Digest: jdlUdejz7S8nZdVctcJMpX7wSHU=
+
+Name: images/cdt_w_standard10.png
+SHA1-Digest: yGeE11D8w8nf12l05lIuW0Pzcyg=
+
+Name: reference/cdt_u_run_dbg_comm.htm
+SHA1-Digest: 0T4arzi09ZtUVEsJZsnRvaSImiI=
+
+Name: images/c_cpp_preferences.png
+SHA1-Digest: lPcKh23V4p+r2jVPaeDsu7Vxzt0=
+
+Name: images/cdt_w_basic17.png
+SHA1-Digest: UqwgKGY96JVoQj2om7W31UZ8Dso=
+
+Name: getting_started/cdt_w_debug.htm
+SHA1-Digest: TplHcPyZ5vRaOCofMeK3r5pYsP4=
+
+Name: images/new_proj_wz_config.png
+SHA1-Digest: i1M7cqONLppR4DPDl4OR06yL424=
+
+Name: images/cdt81/cppcheck_config_2.png
+SHA1-Digest: sIWYoF8qEkGN5rq9a/lAaGmkE0k=
+
+Name: tasks/cdt_t_show_proj_files.htm
+SHA1-Digest: JwXoVAdVZItj+5IkSGkiQhjr8kI=
+
+Name: images/cdt82/CDT_NewExecutableDialog_Remote.png
+SHA1-Digest: BcxQJgDdKIgYNDpNmlBDxiS5vmc=
+
+Name: images/cdt81/largearray.png
+SHA1-Digest: BMvqJX3Z+unC+E+DXrPNzHWcTD8=
+
+Name: images/60/refactor_after.png
+SHA1-Digest: xD4ymH2wuT+a6ebu/fBhWD7AC/U=
+
+Name: images/prop_crefs.png
+SHA1-Digest: qryAoreoy1HM7VF402wERoe951o=
+
+Name: images/icon_show_logical_struct.png
+SHA1-Digest: AivhK12TWTNFdoDKeNLZCopRlzQ=
+
+Name: reference/cdt_u_run_dbg_env.htm
+SHA1-Digest: Ec2NMP6w1pzUL7QTe7v9R1EJhk4=
+
+Name: images/prop_steps.png
+SHA1-Digest: G00s4DEcjy89HC6Gk2dcgm166zk=
+
+Name: book.css
+SHA1-Digest: u9xO6Co0nJXlut/J7kqQzKZRcIs=
+
+Name: images/80/GlobalBuildConsole.jpg
+SHA1-Digest: vF72rgBUHM/vouRH6vFY/z4Er+4=
+
+Name: images/70/CDT70_LastMakeTarget.png
+SHA1-Digest: pHsDebGtf4yCyUV2XoKj4mLi4Bo=
+
+Name: reference/cdt_u_c_editor_typing.htm
+SHA1-Digest: t1D3c3tRN4o+difomO2cORRxW0c=
+
+Name: images/80/Debugconfig.jpg
+SHA1-Digest: QmYlagLxVFLEJOEgi+yuPDRKUFE=
+
+Name: reference/cdt_u_run_dbg_main.htm
+SHA1-Digest: s3tz5L7Wt/kX+l8H3g+UD+547qQ=
+
+Name: reference/cdt_u_fprop_resource.htm
+SHA1-Digest: +c0N7sdBYvX9ufI1/Dy1pRgMGEo=
+
+Name: images/cdt_toolbar.png
+SHA1-Digest: oLLNCqQ33/6Tu9S+vtq4QozP7qI=
+
+Name: reference/cdt_u_prop_general_pns_lib.htm
+SHA1-Digest: qWikUMuYWrFSs2ybW2DHHwPhzN8=
+
+Name: images/nn_codeFormatterPrefs.png
+SHA1-Digest: KR2RQ9jEpntWjplBUATTRHINEsY=
+
+Name: images/cdt82/CDT_DebugNewExecutableMenu.png
+SHA1-Digest: Yy5iH4XaJW05pJomieXWgFwxVgQ=
+
+Name: concepts/cdt_c_discovery_options.htm
+SHA1-Digest: MY5qX7u9/fzLJYQLZ3jB1qlzXIU=
+
+Name: images/60/RenameInFile.png
+SHA1-Digest: JFQw9vsMeHbGvglc+DMiLWGWgyA=
+
+Name: images/cdt_w_importBrandon04run2.png
+SHA1-Digest: jT7qXStM95mE6dulVS2/FIQgvMQ=
+
+Name: tasks/cdt_t_proj_new_with_template.htm
+SHA1-Digest: xdg5Pj1y/CXtazvzvR0US6Sjp+g=
+
+Name: images/icon_reg_display_array.png
+SHA1-Digest: PqS8rk6ZHRFn35Ds3WRfAxSGYr0=
+
+Name: tasks/cdt_t_controldebug.htm
+SHA1-Digest: a7RIbplwggcH33oa/CvBE/dP8+4=
+
+Name: images/prop_index.png
+SHA1-Digest: My5BGov8OJYoKVJeNMAAzWWaJMI=
+
+Name: images/method_private_obj.gif
+SHA1-Digest: 0boXV+MY0aLibvKZOxCdmm2mMF8=
+
+Name: images/view_debug_breadcrumb.png
+SHA1-Digest: jmB+7kPV1+i2kgOXR3XJnVQ87Ac=
+
+Name: images/cdt81/cunittest_launch.png
+SHA1-Digest: 0XITiipB2ll0ytv0DUZfFk9yu/c=
+
+Name: images/60/CDT6.0_OO_indexer_preferences.png
+SHA1-Digest: XyEI8bDvdpfMYfvNErg/wYhs1Vs=
+
+Name: images/nn_xlc.gif
+SHA1-Digest: WeHl989CXyCFePvB+TCgyEmLb90=
+
+Name: images/scanner_discovery/sd_console_view.png
+SHA1-Digest: FSYHhUOaNZoiW+jw33tYPtmh4Bg=
+
+Name: reference/cdt_u_prop_general_lng.htm
+SHA1-Digest: i5nSwwBEomHp9XE9xH2rtPWBaoo=
+
+Name: images/prop_mng_dialog.png
+SHA1-Digest: ui2NVeHnX4ZiunmbT6EWhXawv+0=
+
+Name: images/cdt82/CDT_FloatingPointMemory.png
+SHA1-Digest: wk32huZ0FMv/mnjgw/lL1b7DnDs=
+
+Name: images/cdt_w_basic05.png
+SHA1-Digest: muaQQR8WpWX63zrti80pPh4UksM=
+
+Name: getting_started/cdt_w_basic.htm
+SHA1-Digest: MLWXY4fWd7wDTV2msB3x6hm9fbA=
+
+Name: images/cdt_update_install_cdt_site.png
+SHA1-Digest: LyoIWMmSUtS9pkEJUfeITxzWuvQ=
+
+Name: images/cdt_pref-wizard-defaults.png
+SHA1-Digest: +dYm9Px0l1F1ESTfmazMAwYgU8I=
+
+Name: images/enumerator_obj.gif
+SHA1-Digest: rFJFrM5LHPqJtsJcsP3D2ZLViZQ=
+
+Name: reference/cdt_u_make_targets_view.htm
+SHA1-Digest: WLWKwkZZajAsAT3VCM/b6dvDdLY=
+
+Name: tasks/cdt_t_disassembly.htm
+SHA1-Digest: RjBMh/OdfXA9Q8xPNC76J06ibrs=
+
+Name: images/cdt_debug_exes05.png
+SHA1-Digest: yqaMwGUMErUgxUSykJpemZUyxbU=
+
+Name: images/progress_stop.gif
+SHA1-Digest: /VS8kd2gdGxl9qXVBzmETdljsh4=
+
+Name: reference/cdt_u_open_element.htm
+SHA1-Digest: NprMcYdt4aQBBvKFDAL3jcqwfuo=
+
+Name: images/icon_nav_forward.png
+SHA1-Digest: SZzwttQ8bHQiC/g3KTTfbwA3OpE=
+
+Name: getting_started/hw_example.htm
+SHA1-Digest: tTCx1W3K7wJmw1dEaaXFw8pGKVM=
+
+Name: help.css
+SHA1-Digest: 7F6oj+1548QWBn4u32b3yyr640U=
+
+Name: reference/cdt_u_console_pref.htm
+SHA1-Digest: vwJjGAleVufqaALI3nUpBA7lt+A=
+
+Name: reference/cdt_u_dsfgdb.htm
+SHA1-Digest: U9rrzywt5HLreuoe7ZcY82edGEQ=
+
+Name: reference/cdt_u_m_file.htm
+SHA1-Digest: BU9Ay82ZHCk4BKcJ0/tB+c2BDbQ=
+
+Name: images/icon_show_callees.png
+SHA1-Digest: x2qxKDlwIsj7AHcvKY/nydP91C0=
+
+Name: reference/cdt_u_prop_rundebug.htm
+SHA1-Digest: mnFnXHSoFsCz5vQbExkXlk3p6o4=
+
+Name: images/prop_tree.png
+SHA1-Digest: /wAPY3IJpZzs2oHObpd2FZi8JcQ=
+
+Name: reference/cdt_u_prop_general_pns_out.htm
+SHA1-Digest: GiTwugb8FLxeyhWYPGdQNnJs9co=
+
+Name: images/70/CDT70_Refactoringhistory.png
+SHA1-Digest: 8Ryyz4/AGX+EFvkwK/l7G1X4hc8=
+
+Name: images/80/NameStyle.png
+SHA1-Digest: W/cOMPBiXtChokn9A1q+/8TFDKM=
+
+Name: images/cdt_w_basic16.png
+SHA1-Digest: iw/dSfHo8PXojhOXMcW6I5VpP9U=
+
+Name: images/console_build.png
+SHA1-Digest: VuR77T1lHk7EAaw+1dFivpsaUYk=
+
+Name: images/cdt81/timeoutpreferences.png
+SHA1-Digest: 0WvDn62WHem+0FtmQnjuN6cNRuM=
+
+Name: reference/cdt_u_mfile_tool_settings.htm
+SHA1-Digest: YIg668lx1Ji5b+7MsM5y63QLF4E=
+
+Name: images/icon_annotation_prev.png
+SHA1-Digest: VbQDCmTTHb80/mmszMaPvimB7D8=
+
+Name: images/cdt81/cppcheck_config_1.png
+SHA1-Digest: TrrX6DnSJX0/VfwZlz1H8sXTJMU=
+
+Name: images/icon_show_callers.png
+SHA1-Digest: k4a2mHcRTWQvjYj2xB1G52WDox0=
+
+Name: images/cdt_w_import09.png
+SHA1-Digest: 32f61yt/KmhyAxbmgQfr9Knb1HE=
+
+Name: images/openDeclaration.png
+SHA1-Digest: 4KGhnvmnkyPgwmCpZ1exTqD5iio=
+
+Name: images/view_language_mappings_prefs.png
+SHA1-Digest: Nyfl12nLHQhyWDBhIWbix3eYAk8=
+
+Name: images/field_private_obj.gif
+SHA1-Digest: Re5m0XY4OGN677ehMfS18Lb/ykE=
+
+Name: images/cdt_buildenv_newenvvar.png
+SHA1-Digest: ghTeHjDCJjPrtjwwcVmmSUVdqQQ=
+
+Name: images/icon_db_restart.png
+SHA1-Digest: 9M5M8ZvZDsPKLn4b5MI0xEpSS4w=
+
+Name: tasks/cdt_t_run_main.htm
+SHA1-Digest: gsHSVTHhYf9f1BQoOnFc3mrn2tg=
+
+Name: images/icon_db_stepinto.png
+SHA1-Digest: RlI4fQZxjZm8WBjygoa66v2Wx30=
+
+Name: reference/cdt_u_m_source.htm
+SHA1-Digest: iA4uT7ZV04+2FMO3/f5iDrhWwGs=
+
+Name: images/cdt_file_sym.png
+SHA1-Digest: 1ZEAdZLAmFGlKYV7TjR+XTemMl8=
+
+Name: images/nn_taskTags2.gif
+SHA1-Digest: 2TUbyqn8rng2KCPXJSddzu6Kn64=
+
+Name: images/prop_discovery.png
+SHA1-Digest: qYgAbwo/Ia7dXWySopYkwutISuo=
+
+Name: reference/cdt_u_prop_build_toolchain.htm
+SHA1-Digest: 5uTKhxdcdvS1Nj5uGFEHyOpjinM=
+
+Name: reference/cdt_u_prop_general_scanner_discovery.htm
+SHA1-Digest: NVsKLGhfXDNHDKBXZ5R1i2a9jwE=
+
+Name: images/icon_create_file.png
+SHA1-Digest: fn4E02v1przshrFqnFnF3dqtIHw=
+
+Name: tasks/cdt_t_imp_code_temp.htm
+SHA1-Digest: uMLY0LbUnP+A3Y5P71ie7A1dHKM=
+
+Name: images/cdt_update_install_new_sites.png
+SHA1-Digest: W2fxUPxXteONdoDNIULgyB+DR1g=
+
+Name: images/cdt81/visualizersnapshot.png
+SHA1-Digest: ypoPo4Q3MU6RPa0gbVPNVfsRLT4=
+
+Name: images/sub_co.gif
+SHA1-Digest: psLJ5ecWk7nSHgOPcM+tGfkJSzM=
+
+Name: index/indexed_contributions
+SHA1-Digest: eqGAlwRhvWSj6y99j3vUXWCsieU=
+
+Name: tasks/cdt_t_proj_parser.htm
+SHA1-Digest: 7Xq3fIQ06q0uakuo/SlNew/YCkc=
+
+Name: images/cdt_menu_toggle_comments.png
+SHA1-Digest: nZqc1uHgjvz1B8d7jiGeCuqTe6A=
+
+Name: images/cdt_pref-wizard-toolchains.png
+SHA1-Digest: S1hZEo3fNWItuQhCGdY87jbT8ls=
+
+Name: images/icon_expand_all.png
+SHA1-Digest: WA8EtFAdLzTrFPmhBJOhSbbVZe8=
+
+Name: images/cdt_restart.png
+SHA1-Digest: W2Khhjn7HJx14ywywtnYh+WAVis=
+
+Name: images/prop_environment.png
+SHA1-Digest: 4R1C2rkLU+e+ryNxcNxnUoFqYUk=
+
+Name: images/cdt_w_importBrandon04run.png
+SHA1-Digest: A04VLNNvEoyw+qzmDgqYgJN4woQ=
+
+Name: images/icon_installed_ovr.gif
+SHA1-Digest: C56KVgsQMpUBhiymitLX+dBClPY=
+
+Name: images/nn_new_project.png
+SHA1-Digest: NOL9raUmWDdhuhxQH/0towpyE3E=
+
+Name: reference/cdt_u_registersview.htm
+SHA1-Digest: 4Me4ot+v7zYauccE50VagQ4/4OQ=
+
+Name: images/icon_run_to_line.png
+SHA1-Digest: 1xDTJBBOL1VD0/AXt8xnTb6uUZE=
+
+Name: reference/cdt_u_fileprop_lang_mapp.htm
+SHA1-Digest: u8u3y4bgIdlKHqTsalpVMqxZfus=
+
+Name: images/cdt81/multiselect.png
+SHA1-Digest: QC9aNb5lkaCk/GkkCUWYUOQKCQ8=
+
+Name: images/nokiaCopyright.png
+SHA1-Digest: GCvCxbk5KvSH/e5Ck5TrfTrkymc=
+
+Name: reference/cdt_u_newproj_parser_error.htm
+SHA1-Digest: qSJnlsZkKc7aUjv3XNcfNNFc7qk=
+
+Name: images/icon_reg_enable.png
+SHA1-Digest: urGvwgYTCLRUpu5hZwNM2c0oKJA=
+
+Name: images/view_projects.png
+SHA1-Digest: b49uSReU52uS8Ow4bkp3lNQGcLY=
+
+Name: images/file_new_conv.png
+SHA1-Digest: fxBvj5lQ5fR1ojc5XN8oP0YTuk8=
+
+Name: images/new_make-error_parser.png
+SHA1-Digest: B2DPnQy/jsWkb3rZntGeUTR24ho=
+
+Name: reference/cdt_u_prop_general_pns_libpath.htm
+SHA1-Digest: dENMnWRTDG8xV11YAQ+GJRTEdgQ=
+
+Name: images/prop_symb.png
+SHA1-Digest: K21TV/YQRJzdOYCuOEqwYaPhhs8=
+
+Name: images/template_obj.gif
+SHA1-Digest: 4BVCl8gzteGeLLJkLeSjY26TT7E=
+
+Name: images/cdt_fold_toolsett.png
+SHA1-Digest: p/h1OGqgbUkQuQwCrA3VsZKxtvw=
+
+Name: images/Idea.jpg
+SHA1-Digest: g0dfC2BP0W15qLSoLKA5LmqXqjA=
+
+Name: images/cdt_w_basic04.png
+SHA1-Digest: RHzrOcM4blSphqb4R5Wm1i5USpI=
+
+Name: images/outlineView-hideStaticMembers.png
+SHA1-Digest: wCQzu0Y24JcZ++jUleQJlDvrbcY=
+
+Name: images/icon_home.png
+SHA1-Digest: dAhWzsTAcvilarY2itSjEY81Ahc=
+
+Name: images/icon_con_scroll_lock.png
+SHA1-Digest: rErxB1xTZN1My/LtM69UUFQ1NH4=
+
+Name: images/prop_cfgs.png
+SHA1-Digest: Y3SNXYvz85FriO4zJg83n/cXDGQ=
+
+Name: images/cdt_debug_exes04.png
+SHA1-Digest: 2jN0oPLbvSq3ozg6xBZuqKMXEI8=
+
+Name: images/c_exe_obj.png
+SHA1-Digest: jM+6tbVyM6C00VgqxpoOxZzaKPQ=
+
+Name: reference/cdt_u_prop_general_doc.htm
+SHA1-Digest: b7V/eMxrQWCsixj2tLx8YIUJOn4=
+
+Name: images/icon_toggle_memory_monitor.png
+SHA1-Digest: o0yEp09kJDEJN/avwIPSMFbGSuQ=
+
+Name: reference/cdt_u_prop_manage_dialog.htm
+SHA1-Digest: Tn1n7dOVpmG7JngWz7PSBeZfOLs=
+
+Name: images/icon_con_rem_all_term.png
+SHA1-Digest: kzJqtYibKvcUDzoWXvmftqY1Mic=
+
+Name: images/run_debug_environment.png
+SHA1-Digest: xtQDOzV9t1m7mTvXt7ISxzBb3jo=
+
+Name: images/nn_gdb_hardware_debug.png
+SHA1-Digest: fSYY+QwXYIVXsh217vYfLZcnjJY=
+
+Name: images/cdt_pref_brk_action_properties.png
+SHA1-Digest: qcX2/+AUG6Rur2WezmarfbDouyU=
+
+Name: reference/cdt_o_proj_prop_pages.htm
+SHA1-Digest: z1SFqMrSZBxbmDeEoj1oQZ3iauE=
+
+Name: images/icon_db_stack_frame.png
+SHA1-Digest: 1J0nXvKkhQ9bbvooLB6c7+4nOYI=
+
+Name: images/cdt_w_basic15.png
+SHA1-Digest: 1RB8yRGqaCFlkcfY9/gpUzpoZy0=
+
+Name: images/c_symbols.png
+SHA1-Digest: cGT2OW7VOGIkeSSORiBWNJSINAk=
+
+Name: images/80/Bug-333113-LastMakeTarget.png
+SHA1-Digest: 9rmu4YEnXX+ptTXd9i1t+d91ekw=
+
+Name: images/cdt81/fasttracepointselection.png
+SHA1-Digest: cYEr7uOeoSblCaJ93uq4FnIlvRE=
+
+Name: reference/cdt_u_signals_view.htm
+SHA1-Digest: WdSuUozcJ7hFWuxhySckFUZXVhU=
+
+Name: images/intl_07.gif
+SHA1-Digest: rs7y8c0AcUNF1yGohVzUsjfaag4=
+
+Name: images/icon_terminate.gif
+SHA1-Digest: NXNmrJ5muIXhsPpT1DoE5QS4BAs=
+
+Name: tasks/cdt_t_rem_wtch_brk.htm
+SHA1-Digest: RNPCbdpwAvtzIz5E6QD+BY2/RPE=
+
+Name: reference/cdt_u_prop_general_pns_inc.htm
+SHA1-Digest: k0ZFqWXLxmU6LBlWzrKEnyzhYI8=
+
+Name: images/nn_codeColoring.png
+SHA1-Digest: HnyolchdODiHXNZHlEYMDM3HRls=
+
+Name: images/cdt_update_install_sites.png
+SHA1-Digest: AAnUsTNtB4pw23ECIZW9+TeQjfk=
+
+Name: images/cdt_w_import08.png
+SHA1-Digest: DEGvSa9W6zmLONCj6M7OeQwyBLI=
+
+Name: images/icon_menu_white.png
+SHA1-Digest: RjmUo5+RmC9uS3LvXs5+4+mA520=
+
+Name: images/makefile.gif
+SHA1-Digest: WEyeCvDh1l4pMpM6N0cXdAwXgEs=
+
+Name: reference/cdt_u_find_replace.htm
+SHA1-Digest: x/ek3YfjRa1SJOXunw9H4tgDYzU=
+
+Name: images/icon_refresh_view_contents.png
+SHA1-Digest: IfA0QvqAsPA9tKaVYzD4ybt2HFo=
+
+Name: images/open_declaration_error.png
+SHA1-Digest: c5zOlK2UZCUllPlLTKadoUYZgZs=
+
+Name: images/icon_reg_create_watch_expr.png
+SHA1-Digest: C50Zw7PMdBJn0qj+ZXVgLrEsLHA=
+
+Name: images/60/refactor_varname.png
+SHA1-Digest: QnUL2kZejebtNe8q+pranKtm4Sk=
+
+Name: reference/cdt_o_dbg_view.htm
+SHA1-Digest: Te4g7CkXM07V1PAZGe2hdl/Hq/A=
+
+Name: images/cdt82/CygwinProvider.png
+SHA1-Digest: mJPrdwF/VnMuwv9op33so+euuj8=
+
+Name: images/cdt_w_import19.png
+SHA1-Digest: ZQMoha4fRhI+1N1w8kCw8gFg9Gg=
+
+Name: images/method_protected_obj.gif
+SHA1-Digest: 3uRSUAdS0iVVOz5Fatu5q8TBVHk=
+
+Name: images/openDeclarations.png
+SHA1-Digest: ZpXe/hhuBDrHPki/a6x0293I6gk=
+
+Name: images/prop_builders_imprtlnchcnfg.png
+SHA1-Digest: 3L/iT40+R+g5CvNy0NlIBCQ64uM=
+
+Name: images/80/RemoteDelegates.jpg
+SHA1-Digest: a0++/NklNxTgGjuHD3i5s4VwVYE=
+
+Name: images/mpref_settings.png
+SHA1-Digest: 5zOX8/Bsgw0wzfRKz68bcJOCtZ0=
+
+Name: images/customize_perspective.png
+SHA1-Digest: Vju/MhzaMfIiAchJFDEp+u1hM+M=
+
+Name: tasks/cdt_o_run_config.htm
+SHA1-Digest: rfsL71NYK4IBBVF7yYgYK/bZ+uc=
+
+Name: concepts/cdt_c_before_you_begin.htm
+SHA1-Digest: 6NlNrZMuGO3E+TitUNGvnv7xNd0=
+
+Name: tasks/cdt_t_run_com.htm
+SHA1-Digest: 9joXcIjP0tzhz77KedKDRjfhjfw=
+
+Name: images/icon_ext_tools.png
+SHA1-Digest: ZphpR6hNPU8BR11RXQljw4tUuCs=
+
+Name: reference/cdt_u_newproj_platf.htm
+SHA1-Digest: 3dz7soblqnKe7JhlPGOyxp/3RHY=
+
+Name: images/icon_annotation_next.png
+SHA1-Digest: sTiELrmZROBO3pHWObDcEav1RUU=
+
+Name: images/ngtasks.gif
+SHA1-Digest: GLYmtK7Yr70Tgbme1KCgj2hhYs8=
+
+Name: tasks/cdt_t_expressions.htm
+SHA1-Digest: 9inBER3p2UitJlbyawosYeLIa7g=
+
+Name: reference/cdt_u_prop_cfg_dialog.htm
+SHA1-Digest: tCZPQQHZHcNskpTz+nI8CwTPM10=
+
+Name: reference/cdt_u_newproj_parser_binary.htm
+SHA1-Digest: DFUSjUmD5FH5K9H7vNkuI/WjR1o=
+
+Name: tasks/cdt_t_addrmv_brk_action.htm
+SHA1-Digest: Ulow6SzbP+FBNykyFf+CITSgkWk=
+
+Name: images/create_c_file_04.png
+SHA1-Digest: F/WseAR76eWs2Knw+4xFzI7n51Y=
+
+Name: tasks/cdt_t_refactoring.htm
+SHA1-Digest: /r5IDUti+77WzjTPZzZHh8amQjo=
+
+Name: images/cdt_refactor.png
+SHA1-Digest: K20f7sANqHoM5xfNqivxv9fulFo=
+
+Name: images/cdt_w_basic03.png
+SHA1-Digest: dktr9HN7tG4KeBQBTKJ0Oqh0EqI=
+
+Name: images/icon_con_min.png
+SHA1-Digest: vkRhSdvJpB+Hbzh+biPmf53twBo=
+
+Name: images/btn_import_executables.png
+SHA1-Digest: zc/AG+bqagMd1g9w0B1K6ctzFe8=
+
+Name: images/icon_hide_sys_includes.png
+SHA1-Digest: 4Gk9LykVlPHZSR2j49IiQlTHUlM=
+
+Name: images/icon_menu.png
+SHA1-Digest: xt5344f42Kq3WVCZWJd8u4qED5c=
+
+Name: images/indexedFile.gif
+SHA1-Digest: u6NcFY8uPfCfQ+a7Kzv4uKApgYg=
+
+Name: images/project_new_file_name.png
+SHA1-Digest: G3EuVZ1mutbvxlVOpX7SdskmDgI=
+
+Name: images/cdt_debug_exes03.png
+SHA1-Digest: 1b+aRxvlWQSBHTWf3//6URSZqks=
+
+Name: images/btn_restart.png
+SHA1-Digest: WzeCDSj2WCric3canvTpZJe+M0w=
+
+Name: reference/cdt_u_pref_build_vars.htm
+SHA1-Digest: usEPzm2jI+Kyl5MQIrojRYLUn2Q=
+
+Name: images/outlineView-hideFields.png
+SHA1-Digest: w6GVH8cU3ebRdfb34UzAM9bBWso=
+
+Name: images/nn_basic_settings.png
+SHA1-Digest: PTOXxWLCV0oR1OxuIJ/i7l5xt1M=
+
+Name: images/indexer_preference_page.png
+SHA1-Digest: tN84ArxySAkYiTAL6gwNDXqV/TA=
+
+Name: images/prop_tool.png
+SHA1-Digest: y+WY2iehdWL4uGHF2TvDINZSdE0=
+
+Name: concepts/cdt_c_projects.htm
+SHA1-Digest: Qnqx5i768oyxG3dnMaIVdqO+8NY=
+
+Name: images/scanner_discovery/sd_preferences.png
+SHA1-Digest: o+ozDwQ39GpWutvyxdhUVQfFIec=
+
+Name: images/static_co.gif
+SHA1-Digest: eg7z6fmLrY6yBNb2IR0n1RWkT+Y=
+
+Name: images/cdt_error_workbench.png
+SHA1-Digest: fNmzKxXmJWiCdr4beo3rsT4veJg=
+
+Name: images/cdt_w_basic14.png
+SHA1-Digest: 9baRlR/pESaiI8HusyfYFXsna1M=
+
+Name: tasks/cdt_t_conv_proj.htm
+SHA1-Digest: abbCtKHww8GDwhofhoq0FUdzJXA=
+
+Name: images/icon_create_cproject.png
+SHA1-Digest: 7AHmCKlc5C4/WoxX1vrg3b8U13Q=
+
+Name: images/cdt_w_debug_configurations_02.png
+SHA1-Digest: Lx2wNvlFt+y79iMD608ZOgq4AI8=
+
+Name: images/ngback.gif
+SHA1-Digest: QGOABYq6+91sw87bE9XB6IQHSn4=
+
+Name: images/cdt81/cdt_debug_nohiding.png
+SHA1-Digest: MeSTuPul0+Zlw4SP9CsPL38RX/U=
+
+Name: images/cdt_w_import07.png
+SHA1-Digest: zR+ZQ6VVsHN0ObmDLGd197delAQ=
+
+Name: images/cdt_ca_no_completions.png
+SHA1-Digest: AmZvSRhNf92kpWKrDaxLSpZI5ek=
+
+Name: images/cpp_bld_settings.png
+SHA1-Digest: afa3t344Z9O1xp5xp9uHWaqOPyg=
+
+Name: images/cdt_w_binparser01.png
+SHA1-Digest: S7Dknc6KDQiFHKkM4A5KqDIcuxE=
+
+Name: images/cdt82/ConsoleWrapLine.png
+SHA1-Digest: gImJ1hhxqKUBkFjDlmPgQGfeloU=
+
+Name: images/prop_builders.png
+SHA1-Digest: JofO5Og7b3/avuszgENl8wWx4y4=
+
+Name: images/ngnext.gif
+SHA1-Digest: SVwjhNJM7jqcNWD99WYMubuOVrA=
+
+Name: images/codetemplates_example.png
+SHA1-Digest: Ji8NoSjw7GElbge4DfyvXmI903w=
+
+Name: images/icon_create_folder.png
+SHA1-Digest: 9/ATzt8yGxK57Cb0OAlEyg5GaqQ=
+
+Name: images/search_pref.png
+SHA1-Digest: Xi5FFgJDqQOTsMEifg+mS8HJZaM=
+
+Name: reference/cdt_u_c_code_style_pref.htm
+SHA1-Digest: 4MFIFJuYf10Ap2jIijVlguftd5I=
+
+Name: images/scanner_discovery/sd_prop_add_lse_paths_dropdown.png
+SHA1-Digest: 1uGIT5P2ljWpWSbtaJd7ouVgHlM=
+
+Name: images/add_breakpoint.png
+SHA1-Digest: rKLmeB5a8NszvnWJKbNMLr06FEk=
+
+Name: images/project_new_makefile.png
+SHA1-Digest: 6GHdYZTQBsl+MEote92hYRzofwk=
+
+Name: images/60/CDT6.0_OO_search.png
+SHA1-Digest: dVSJAub12VOySbNZc97xu4BTry8=
+
+Name: images/show_view.png
+SHA1-Digest: Dn6Y/BrkDvFJQ97A/D59IhKIw4o=
+
+Name: images/icon_error.gif
+SHA1-Digest: oQJ5erpBVxic7pQPykqlpOqh8EA=
+
+Name: tasks/cdt_t_prvw_hide_files.htm
+SHA1-Digest: xnjZn5y9NDSXa1z1OJdLUWHg9qM=
+
+Name: images/cdt_w_import18.png
+SHA1-Digest: 3+qlgzE8zdQu5i5vyTz7AIm1ckw=
+
+Name: images/cdt_update_license_agreement.png
+SHA1-Digest: mfdK5p9Wqch8QAMmZxUaLVQJMho=
+
+Name: images/icon_reg_copy_registers.png
+SHA1-Digest: feGA+eJxiKNEa3W+dLw8vFUSRjg=
+
+Name: images/new_make-paths_symbols.png
+SHA1-Digest: cfEactSqgQ3AN24YOdUo9mU/NZ8=
+
+Name: images/nn_bpactions.png
+SHA1-Digest: wB/IFfEJ7tOsLH+j/aYhx+1l1mE=
+
+Name: reference/cdt_u_mfile_rcbs.htm
+SHA1-Digest: Czku1amIDz8CjDTrnqWGeua+t4g=
+
+Name: images/60/CDT6.0_macro_hover.png
+SHA1-Digest: E5+ZWqC+1VQ01ls6rlDODcjAoSw=
+
+Name: tasks/cdt_t_add_codetemp.htm
+SHA1-Digest: T2jP32XyQiRiWbtLLpInz3czUVg=
+
+Name: images/icon_new_memory_view.png
+SHA1-Digest: 4/AVmIA0TOBqcxc7CvHow2fqq1U=
+
+Name: images/70/CDT70_BuildSelected.png
+SHA1-Digest: cUe73Kcvn6sZwj9O9MdULi0aQ6g=
+
+Name: images/nn_type_hierarchy.png
+SHA1-Digest: yxKmaivdwM+DMopX59guWTieEUw=
+
+Name: images/cdt82/CDT-DSF-GDB-MulticoreVisualizer-LoadMeters.png
+SHA1-Digest: S/sn4xkKi2mXdmoPxIj7W6m7gvI=
+
+Name: images/icon_manage_cfg.png
+SHA1-Digest: YJ8SoFDSy73xJNj0YftCr4TlR7E=
+
+Name: images/c_paths.png
+SHA1-Digest: 7OH/WZMmaRxMYyuAakOjTESJqjQ=
+
+Name: images/filterbutton.gif
+SHA1-Digest: AHBkR6nQE7iMwxArB1IWlYs3Jps=
+
+Name: images/create_c_file_03.png
+SHA1-Digest: dRNgIsD9+AAtSu9ykruJUHQoims=
+
+Name: images/cdt81/sd90providers.png
+SHA1-Digest: g2e3rj3ryqj3Kn+2XBv9zGexbHA=
+
+Name: images/80/RenameRefactoring.png
+SHA1-Digest: rriHA02klX5g0h9HD3aKcJ3YbuM=
+
+Name: images/70/CDT70_ImportIncludes.png
+SHA1-Digest: yMwZwt5jIIPwBwq2ZXArgCUoywg=
+
+Name: images/cdt_w_basic02.png
+SHA1-Digest: JliRFCAcTQa57qF1d8O21s4NvLI=
+
+Name: images/hierarchy_co.gif
+SHA1-Digest: fFVQjhMj3hfxi6KtiPvDnnr2QIE=
+
+Name: images/80/Bug-302720-ResetErrorParser.png
+SHA1-Digest: EzXqAYyIbtGHHMB6T46TwUCInjk=
+
+Name: images/update_managed_build20.png
+SHA1-Digest: 29QREKG38pY0dY9K9knyrdjggAw=
+
+Name: reference/cdt_u_c_editor_con_assist_adv.htm
+SHA1-Digest: Iwa0d3Zp+MQHQDTpjEF9IhhsA7w=
+
+Name: reference/cdt_o_run_dbg_pages.htm
+SHA1-Digest: 9JOXYvaMd1HraSDzdoIr4+O4g7o=
+
+Name: images/cdt_debug_exes02.png
+SHA1-Digest: bg3DrOnOyurS1HQ4t5LH+t++lNc=
+
+Name: reference/cdt_u_m_window.htm
+SHA1-Digest: mmZ0Jcr3uRTYSiftusEXbT6uw24=
+
+Name: images/80/NoPrettyPrint.png
+SHA1-Digest: x0yh4HK64F+hn6sFla+IaVFVdPQ=
+
+Name: tasks/cdt_t_variables.htm
+SHA1-Digest: m7HFsKnRfxEt+dN+Ww9WzS/2v3Y=
+
+Name: concepts/cdt_c_comments.htm
+SHA1-Digest: TLzrARC/MPKU0yibfPXZAJIv6QM=
+
+Name: images/80/CDTExpandSelection.png
+SHA1-Digest: MXjnXwStFgtHDm6GV3snWh9OMDY=
+
+Name: images/cdt_pref-prop-pages.png
+SHA1-Digest: NVGab2cKsvrEvDwXxKO3IDmpia4=
+
+Name: images/command_link.png
+SHA1-Digest: wV3ZVyVzuzU6fhxBWfS+X+nBmW4=
+
+Name: images/cdt_w_basic13.png
+SHA1-Digest: LU4J1AcQwKyjdPsr7FEFWAb0inM=
+
+Name: images/intl_05.gif
+SHA1-Digest: 7NVgjPn7uEVM9ngkwMiMYTGNTdE=
+
+Name: images/cdt_w_debug_configurations_01.png
+SHA1-Digest: rjNSM3xHMAd8OPq3MkNdjXV0N28=
+
+Name: images/view-up.png
+SHA1-Digest: jQ4Dlynwo9CZdm12TH8uKyjpLPI=
+
+Name: images/editor_scalability_preferences.png
+SHA1-Digest: OF7oM1T8P5iIfFV5RZFfJWJAxkk=
+
+Name: reference/cdt_u_m_edit.htm
+SHA1-Digest: UChKOYl8cjLl33zPeMdVM1sPwCo=
+
+Name: images/view_debug.png
+SHA1-Digest: uFKixkxaEq2QYQaKeSbdzCZoCF4=
+
+Name: reference/cdt_u_prop_builders.htm
+SHA1-Digest: F8Hh4to9yE7i8GfIA9pyB3AR+44=
+
+Name: reference/cdt_u_type_hierarchy_view.htm
+SHA1-Digest: VKXhW3aBAs0eMbN6ApGUoh7q640=
+
+Name: concepts/cdt_c_outlineview.htm
+SHA1-Digest: py076uSydoghJLa1CuuBcd5j4I0=
+
+Name: reference/cdt_u_pref_wizard_toolchains.htm
+SHA1-Digest: ZzQAz/ZbOpzOjyQs6CfIAb6mHu8=
+
+Name: images/create_make_target.png
+SHA1-Digest: nIAViMVkdUOAxU6mkiaH6motcL0=
+
+Name: images/cdt82/ConsoleWrapLinePreference.png
+SHA1-Digest: A/cKqlqq164o2uObsBvUcVsUN/0=
+
+Name: images/view-back.png
+SHA1-Digest: CMsCwfw6E6KZtJTYJUwzdPpCIl8=
+
+Name: images/60/CDT6.0_OO_syntax_preferences.png
+SHA1-Digest: EkdSPRbCSBKzu1rlUf/4cWVmDaA=
+
+Name: reference/cdt_u_new_proj_wiz_toolchain.htm
+SHA1-Digest: 1jo4Kr8X2n0r8+p0K16y3gCF7N4=
+
+Name: images/cdt_inline_rename.png
+SHA1-Digest: d9eqhIe7Aq3ExO+paWJJQUtWnUc=
+
+Name: reference/cdt_u_scanner_cfg_disc.htm
+SHA1-Digest: NveU7apI39T24P3tyHNX58dah4I=
+
+Name: reference/cdt_u_newproj_buildset.htm
+SHA1-Digest: SqdHyh2tMwTYOaeDxKofb/nqeHc=
+
+Name: images/60/PV-extloc.png
+SHA1-Digest: Gvdwg/g5k0Ja0eCqDmpFDauWea0=
+
+Name: images/cdt_update_location.png
+SHA1-Digest: 8UaeT8ZGdxVBUMWRKl8xy5oLGpY=
+
+Name: images/cdt_open_element.png
+SHA1-Digest: 1XB4XB+BaYEa8dJATFOz5CdHCTk=
+
+Name: reference/cdt_o_prop_proj.htm
+SHA1-Digest: loZrMPE7RbpbvB4NZs48ILj4Rtc=
+
+Name: images/error_co.gif
+SHA1-Digest: d6GX5SHnzFYq+LpgFxvPwlOoDZk=
+
+Name: images/cdt_w_import17.png
+SHA1-Digest: NDxGEmvRjuCDMw4JoMOeHwcZdvA=
+
+Name: images/namespace_obj.gif
+SHA1-Digest: Hfg6l4Hiwi/18rRpvEVj0GLh8kQ=
+
+Name: images/cdt_w_importBrandon03.png
+SHA1-Digest: Z1W37QiP7qldH8/UjQ8uks96G/w=
+
+Name: concepts/cdt_c_perspectives.htm
+SHA1-Digest: I3bg71kZJq5E/tzYxhEAvW/28+g=
+
+Name: images/60/MTV-DND.png
+SHA1-Digest: m0NGFFGpcKZ09+YORB0pNOq/hTc=
+
+Name: images/icon_print.png
+SHA1-Digest: 3xDfWhcgz31fcdaPsY4Vi8Sa1TI=
+
+Name: reference/cdt_u_environment_pref.htm
+SHA1-Digest: MrWAUZEOKR/CqpViI+cgdOhN+Mw=
+
+Name: images/function_obj.gif
+SHA1-Digest: uAmPMO0A86bCjVYNm9sNBIxYdJ4=
+
+Name: images/cdt_dsfgdb_preferences_page.png
+SHA1-Digest: TGzS/eVMpQiC/uJ6EGOkBnlx9wI=
+
+Name: images/60/New_cdtwsconfig_wsContextMenu.png
+SHA1-Digest: rvMYEbpjpytUkF0nwij+RJODo1k=
+
+Name: images/scanner_cfg_disc.png
+SHA1-Digest: 2+IA1KWhETNbEbsjStMTM2pYAj8=
+
+Name: images/70/CDT70_Codan.png
+SHA1-Digest: +oR3hUN2OoukPGWiJjfuzRrSwFc=
+
+Name: images/icon_remove.png
+SHA1-Digest: ht8Is/wYsWqqJ6ufIH6Xr0NwzLg=
+
+Name: images/icon_thread3.gif
+SHA1-Digest: p4QjQfkBfUDbE0mA0WtZZgzILGM=
+
+Name: reference/cdt_u_prop_build_environment.htm
+SHA1-Digest: qVqmAnrwlhtWDdI3Wzldc0Dd1Fg=
+
+Name: images/cdt82/CDT_OSResources.png
+SHA1-Digest: W/N1E8mgliM4r0EYchAdG3r+78o=
+
+Name: images/create_c_file_02.png
+SHA1-Digest: R/RGObddlIg7evbkMxoysjwkNi0=
+
+Name: images/cdt82/CDT-DSF-GDB-RevBPAction-dialog.png
+SHA1-Digest: erHJrEiNkFBKJtG4LW5M6jFci1c=
+
+Name: images/icon_db_debug.png
+SHA1-Digest: 5yVgXU8knBCNQ19yJQ5p9JuulK4=
+
+Name: images/80/MultiAttachDialog.png
+SHA1-Digest: aD7g500LXlBHgbRfPIggF90cQ+U=
+
+Name: images/icon_terminate_rem.gif
+SHA1-Digest: 2vLqvnoEm6zoD16iGWiwIi3Zfm8=
+
+Name: tasks/cdt_t_rename.htm
+SHA1-Digest: oz5OyCVPKpjNUzSX4jdMn968HPo=
+
+Name: images/update_managed_build.png
+SHA1-Digest: 8QKIpV1E1UYYbRjPaeumDoiBTbY=
+
+Name: images/cdt_debug_exes01.png
+SHA1-Digest: 6aaKF0hD4DCKngYw+L5XolgVkSM=
+
+Name: images/outlineView-hideNon-PublicMembers.png
+SHA1-Digest: jLaxXHBPTtOJXUf5TJAHOsoVft8=
+
+Name: images/icon_show_history_list.png
+SHA1-Digest: IQtVX1TerWZhtECFjy2hlEN5MKk=
+
+Name: images/editor_folding_preferences.png
+SHA1-Digest: vzSPqeEPcGmPlPfvEIGJVSnMejc=
+
+Name: cheatsheets/cs_cdt_import_project.xml
+SHA1-Digest: w0bMrTstlRK1iMviqUm1rkhW9jE=
+
+Name: images/convert_proj.png
+SHA1-Digest: MMGngqWNx2FitMPtcX/NtHg6ONM=
+
+Name: concepts/cdt_o_edit.htm
+SHA1-Digest: apjL4mCQJ+wSy7ma6PqH+zx2M/4=
+
+Name: images/icon_breakpoint_disable.gif
+SHA1-Digest: Bz/QfHpDPzweB8EyWe0rfHkNGBY=
+
+Name: tasks/cdt_t_new_cpp.htm
+SHA1-Digest: 2uXaQaBhknnPzRO9JLJsvHwqtrw=
+
+Name: images/cdt_w_basic12.png
+SHA1-Digest: JQ7w/7+LPVCIFeHW28nfRHDshCQ=
+
+Name: images/view_project_explorer.png
+SHA1-Digest: F5agloFoOxmx1w46iTEp4zGUbYA=
+
+Name: tasks/cdt_o_build_task.htm
+SHA1-Digest: WaOu7eIOIZHa7rXt74CpKxHz/DM=
+
+Name: images/cdt81/multiselectruncontrol.png
+SHA1-Digest: 4Ez/eLHDR88UfV1tg6FE7l/et1w=
+
+Name: intro/cdtWhatsnew.xml
+SHA1-Digest: YRwxOw+lCJasyxJcBZcMv+ch/r0=
+
+Name: reference/cdt_u_mem_view_pref.htm
+SHA1-Digest: o+WWfKwMETww833sVm7D8WxrC2o=
+
+Name: images/contentAssist_example.gif
+SHA1-Digest: FBk+BUquiIs7eeuzBDHOH1rRTww=
+
+Name: images/home.gif
+SHA1-Digest: 1KJCrroYetRfRgTjSewK+3rqCXo=
+
+Name: images/intl_05_07.gif
+SHA1-Digest: dDvirY+ZkgKXlgLFPXtVz5VezK0=
+
+Name: images/cdt_w_import05.png
+SHA1-Digest: TdVwr+UjRJlc41cHqZ8tqqMj97Q=
+
+Name: images/setting_nav.gif
+SHA1-Digest: OUKYu5DR/Kysqipsybf7i1pGY9c=
+
+Name: images/makefile_editor_prefs.png
+SHA1-Digest: kp1VakOaH8VjPm+fyQOYKZ6YdRM=
+
+Name: images/nn_missing_file.png
+SHA1-Digest: VRemJa5mwiw6VeWTOjqbOTo/+0E=
+
+Name: tasks/cdt_t_build_process.htm
+SHA1-Digest: /Y68bJwB1HRf9/Yr5cKaF9RvL7Q=
+
+Name: images/cdt81/collectstring.png
+SHA1-Digest: p0+exMqvqmDy0eflxjm8RuUkLEA=
+
+Name: tasks/cdt_o_brkpnts_watch.htm
+SHA1-Digest: +Rl0Gt9DVpqmos9+htY9FnUDtSQ=
+
+Name: images/prop_general.png
+SHA1-Digest: 2PHJSpJo/eDyNJ//Z7tNae4Vaw4=
+
+Name: images/ing00_04a.gif
+SHA1-Digest: byhXu3pMkLADK3wisPvpBsm0Zq8=
+
+Name: tasks/cdt_t_convert_cdt_proj.htm
+SHA1-Digest: rCD2/iy4sO/bdEDJNVaiPrHX3lU=
+
+Name: images/icon_create_c_class.png
+SHA1-Digest: Fipie/49GAlnqLP7yfH7zVd0WMc=
+
+Name: getting_started/cdt_w_build.htm
+SHA1-Digest: 9KKyQ00hiYfBsWiZFqU5YizjnJw=
+
+Name: concepts/cdt_c_search.htm
+SHA1-Digest: TQGz3vrJNjav86LHcCFRzbntFuo=
+
+Name: images/view_add_mapping.png
+SHA1-Digest: WcmBce0kJRgBYR+7BlNNqEhTWb8=
+
+Name: images/rh03_04.gif
+SHA1-Digest: 1IzOhTJRhlFy9FieBXRS46oc1QA=
+
+Name: images/icon_db_use_step_filters.png
+SHA1-Digest: IiUYL9fp/CtbDsNWGQtbN7wguJA=
+
+Name: images/cdt81/cdt_n_and_n_8_1_add_breakpoint_dialog.png
+SHA1-Digest: ev3jb0vYoN02nTlB3l4k3sxFnu0=
+
+Name: images/cdt_pref_brk_action.png
+SHA1-Digest: ORuSGQECiT6ANLmMcfoa/1tn2qk=
+
+Name: images/toc_closed.gif
+SHA1-Digest: nwoYz2LUxKSXdn0Rox4eRSfxtgg=
+
+Name: images/70/CDT70_SaveLog.png
+SHA1-Digest: Gn/j2zJ9mS1oE5ETLGIRWLeHVWI=
+
+Name: images/cdt_w_import16.png
+SHA1-Digest: T71gM9CIKUHzTBzpVlbadpPGLvg=
+
+Name: images/cdt_w_importBrandon02.png
+SHA1-Digest: Nf5gSZSKimWKYIWd9t6IsB9bC9g=
+
+Name: tasks/cdt_t_run_env.htm
+SHA1-Digest: PtunTTEbaNPIoPBzzwyfN0i5bBc=
+
+Name: images/editor_hover_preferences.png
+SHA1-Digest: xnO1AWQhWH55NmUE2pZt5hz0AHo=
+
+Name: images/60/New_cdtwsconfig_wsProperties.png
+SHA1-Digest: O4Xeq1mnZyoYtkogk/zphI3iVvw=
+
+Name: images/code_templates.png
+SHA1-Digest: v1ecwliWlTjOEcAZ9aR1hoqIuG0=
+
+Name: images/include_obj.gif
+SHA1-Digest: 6w3bTEdfuskZvt+/RxZ5HZPsgC4=
+
+Name: images/field_protected_obj.gif
+SHA1-Digest: mVDdqPrsqWHxyLqUquoYdLNHG24=
+
+Name: tasks/cdt_o_tasks.htm
+SHA1-Digest: Nu1X2EW0voUusClZN/eyz5091Ac=
+
+Name: images/run_config.png
+SHA1-Digest: hyHxlWT4+RHmpExIpBGvcbx/yNo=
+
+Name: images/cdt_w_viewMenu.png
+SHA1-Digest: DfdNLHT8WCCoBGRmm7zxoUl9Sqg=
+
+Name: images/mprop_refactoring_history.png
+SHA1-Digest: hnBXmHcy+Q8MQVy51TQEHoyvDKY=
+
+Name: images/outlineView.png
+SHA1-Digest: 4yOBnxFnU5P5OaQr+f4E4Ai189s=
+
+Name: images/new_make-binary_parser.png
+SHA1-Digest: ksHL1xhwwy1HL0cLYdnt67VY9+M=
+
+Name: images/icon_thread2.gif
+SHA1-Digest: hP1/h29piiD/Ld+geTUo3iI0zZ4=
+
+Name: images/scanner_discovery/sd_prop_add_lse_kinds_dropdown.png
+SHA1-Digest: 3an4LfwW/Y4DHf2eQxMF32VRv+E=
+
+Name: reference/cdt_u_prop_build_settings_steps.htm
+SHA1-Digest: ADqJsj3+hSLDeqd59q3/hTgvlis=
+
+Name: images/icon_show_type_names.png
+SHA1-Digest: yED538+BXiBv5/eZchgJQnnOCoo=
+
+Name: images/cdt_pref_new_task_tag_dlg.png
+SHA1-Digest: CQuKg4QEZfhPkh1azkjMnlYSm5M=
+
+Name: images/view_table_rendering.png
+SHA1-Digest: 5q2QzurZV2ESm1z+oFKewAiuo9c=
+
+Name: images/cdt_pref_task_tags.png
+SHA1-Digest: keW30CNYncCjtEFKQ+OK3mah2Ls=
+
+Name: images/60/CDT6.0_group_methods_prefernce2.png
+SHA1-Digest: Oz2B5ahqmgrrjcSmPLUQpo7veZE=
+
+Name: images/create_c_file_01.png
+SHA1-Digest: sx+IdOq59bfmugYBiw6fGHGSKcc=
+
+Name: images/editor_color_preferences.png
+SHA1-Digest: uL70O1aF9e33g3tcu7jwhnk+gTU=
+
+Name: topics_Tasks.xml
+SHA1-Digest: cYO1U28qNh5DkNGo8u6kAiVBTgw=
+
+Name: images/icon_debug.png
+SHA1-Digest: AOrC8IJmNbwek9vAlU2VKq7TdnA=
+
+Name: images/icon_wset_del.png
+SHA1-Digest: BC70pgsJko4juMNJbqi6B5S6w/4=
+
+Name: reference/cdt_u_discovery_preferences.htm
+SHA1-Digest: ToK29vZI3Y87rCBXuzg4z/w7jtY=
+
+Name: images/cdt82/OrganizeIncludes.png
+SHA1-Digest: 2SZT25ciuwc9Ov+EGQIk2rU7pEI=
+
+Name: reference/cdt_u_dbg_view.htm
+SHA1-Digest: /PWWjd9GpA82spN5RQLtsw5HvdA=
+
+Name: tasks/cdt_t_proj_new.htm
+SHA1-Digest: Doz3blJIUCUsr9gsBh7j33hLTus=
+
+Name: images/60/CDT6.0_OO_editor.png
+SHA1-Digest: 3KjrDaYBJmBXHVdGg2BmoxUn4II=
+
+Name: tasks/cdt_t_endis_able_brk_wtch.htm
+SHA1-Digest: cr/wL8OR0voX2wa/ymbAZNq8vGA=
+
+Name: images/cdt_w_standard09.png
+SHA1-Digest: 5GheU4E/6maZkHNf8dm+S1dTrqA=
+
+Name: images/icon_con_terminate.png
+SHA1-Digest: QrjL6+rMyu3CQoRolTXgE8OsVYQ=
+
+Name: images/editor_c_codetemplates_use.gif
+SHA1-Digest: bUVX47VArg/Cck9ATeIV4NdaibQ=
+
+Name: images/cdt_w_basic03a.png
+SHA1-Digest: PdTX3Xrwnh8Amt6ZU7okZVbRu64=
+
+Name: reference/cdt_u_prop_build_variables.htm
+SHA1-Digest: niG76D/E17SA9fGTNfy1J8igVHM=
+
+Name: images/icon_show_prev_search.png
+SHA1-Digest: V3+lTkdVZvi1sXlpDA71zy2JOsQ=
+
+Name: images/cdt_w_basic11.png
+SHA1-Digest: kmrqqO2s6ur034uBB0Uald+mrvQ=
+
+Name: images/cdt82/CDT-DSF-GDB-MulticoreVisualizer-Selection.png
+SHA1-Digest: asq3NMMrLxWPcaI8yeQ3NbWaIBk=
+
+Name: reference/cdt_u_prop_general_pns_hier.htm
+SHA1-Digest: yUCKaf2oGWvXaEQWicbrX6NUS58=
+
+Name: tasks/cdt_o_debug.htm
+SHA1-Digest: NEaPeqt/UyJLLIFDi4+9GVTjrAw=
+
+Name: images/view_include_browser.png
+SHA1-Digest: 4AogYxBlx+Y4C7P1+v1fnRFxMsc=
+
+Name: images/view_make_targets.png
+SHA1-Digest: vA+WJNiMNBhh+rcjx6IOpDKSKqs=
+
+Name: images/cdt_w_import04.png
+SHA1-Digest: NBMpYazqFxpCLZx9erhACedAofw=
+
+Name: images/icon_open_element.png
+SHA1-Digest: 0Myd0Bt4Ruim8pd5UsaVL0SB46U=
+
+Name: reference/cdt_o_menu.htm
+SHA1-Digest: yYFLv/zGRRJvFn/WcCla5i+mkGo=
+
+Name: images/history_list.gif
+SHA1-Digest: j52/SKzwwKnOxkBS6CaZa3E+0dg=
+
+Name: images/icon_collapse_all.png
+SHA1-Digest: vJeP0pO0CrzHH54kUB1oyggi1yI=
+
+Name: images/cdt82/StepIntoSelction.png
+SHA1-Digest: mOwYJVUx9kCLXlwHS15ayZ+6DMg=
+
+Name: tasks/cdt_t_contentassist.htm
+SHA1-Digest: E89WuSd7G9sdyJN0D0uG60JK3AY=
+
+Name: images/cdt_w_basic22.png
+SHA1-Digest: GhW7Nm+P6lIurL/ZKQ14xAvlDTI=
+
+Name: tasks/cdt_t_new_run_config.htm
+SHA1-Digest: lv2O+zS0lhVbq01t3j4oTxvxFEc=
+
+Name: images/run_source.png
+SHA1-Digest: TJ5alYeQUL9i17GmF1ezvw5YCm0=
+
+Name: images/icon_con_pin.png
+SHA1-Digest: DtXVh1MKsxnKDak4OuPkPW03NhY=
+
+Name: tasks/cdt_t_add_watch.htm
+SHA1-Digest: M//Or8SjdCG4CSWC71lCSRHwycc=
+
+Name: images/cdt_fold_tcedit.png
+SHA1-Digest: mjFPdviqashlCME2dcG5dJPKL/s=
+
+Name: images/cdt_w_import15.png
+SHA1-Digest: YwHpKSio51GtmSZN9iIysmGsDEY=
+
+Name: index/_0.cfs
+SHA1-Digest: BOnfMhczcpN/lzLdWuAreAG+rbE=
+
+Name: reference/cdt_u_new_proj_wiz.htm
+SHA1-Digest: d2rjEOmdbbpqAOZ0qxJkd3oQbqk=
+
+Name: images/cdt_w_importBrandon01.png
+SHA1-Digest: m/n6XXz1WceJNce+/dyJntAtPR0=
+
+Name: index/_0.cfx
+SHA1-Digest: XhpTbvS6rGHjsfo1Pxa+8+QYQ5Q=
+
+Name: images/workbench_prop.png
+SHA1-Digest: kjx4Mb4tgFW2gWaEIlv7RPJ56/k=
+
+Name: images/cdt_new_brk_action.png
+SHA1-Digest: cs+4wzEs2r19WGP8NJhYkI+xJ0o=
+
+Name: images/prop_lib.png
+SHA1-Digest: gldjm/mvlRksLvGZ52nJxV7fBTQ=
+
+Name: images/view_debug_prefs.png
+SHA1-Digest: w5BGE31V3dFgLdJV9a8RTWSRVAw=
+
+Name: images/icon_save_output_file.png
+SHA1-Digest: DAeDRnDJXxo7vFPYLIPfvv/381Y=
+
+Name: images/icon_filter.png
+SHA1-Digest: ijkuclaH0thXyg4+8ix61XFglz4=
+
+Name: images/view_signals.png
+SHA1-Digest: InoCIR5Txd0Z8s6geNCxieeDHcM=
+
+Name: images/window_customize_perspective.png
+SHA1-Digest: NufJANKTrRkTmrUJT5eU62Rd9pM=
+
+Name: reference/cdt_u_c_editor_scalability.htm
+SHA1-Digest: ICE2zSt7AE2CsWkTrC+rl8MR36I=
+
+Name: images/icon_prev_error.png
+SHA1-Digest: JVrAAbrzEcjdeckfBkTE9U4qfJo=
+
+Name: images/cdt81/extrawarnings.png
+SHA1-Digest: L6emi+4s3IjtOOzrEZ2tp0JvTEc=
+
+Name: images/projects_filters.png
+SHA1-Digest: ZFHHABmxGc8oS+zV3zpGOrFWtyU=
+
+Name: images/contents_view.gif
+SHA1-Digest: cW06+immHP9dNa7HpsWoQ2BFiQg=
+
+Name: images/icon_stackframe.gif
+SHA1-Digest: eEdZNfLLT1dMDvhRLYbX/a9rSUU=
+
+Name: images/ngtopics.gif
+SHA1-Digest: t2aGOaj9SW9paWSo40ibJCnmjMA=
+
+Name: images/selection_search.png
+SHA1-Digest: J1FoDVfkXvXSvVIQoPlDEb6j/GQ=
+
+Name: images/70/CDT70_RegexErrorParser.png
+SHA1-Digest: NwW9P4McHmFEYoyA2Tx+40SEalg=
+
+Name: images/icon_thread1.gif
+SHA1-Digest: JdAVson7mM1+j7gpI0K/zfJz/ms=
+
+Name: images/cdt_dlg_define_build_var.png
+SHA1-Digest: LgXfrSQfdE+l26AvukQpbCTq8NY=
+
+Name: index/segments_2
+SHA1-Digest: /4AFC0CQwf5tTYQWfF1VNFGDkJI=
+
+Name: images/field_obj.gif
+SHA1-Digest: kMyi5MmbfYkP16Wnn7Fhm2GKxpg=
+
+Name: images/cpp_bld_discovery_options.png
+SHA1-Digest: Lp8v5nII7WdY697Ofn+PG3uT/tI=
+
+Name: concepts/cdt_o_nav.htm
+SHA1-Digest: fm8KbtLBIqYcpqdHAPj09D4Kj8M=
+
+Name: reference/cdt_u_prop_general_exp.htm
+SHA1-Digest: RN3ocJ7PyCq7puu2GLelzYhqP6s=
+
+Name: images/icon_run.png
+SHA1-Digest: th24Aasi/l9Xz1D+EF70WTIQWqs=
+
+Name: images/container_obj.gif
+SHA1-Digest: AmuGV/uYYn0nr857WBR/usO5t7g=
+
+Name: tasks/cdt_t_proj_build_set.htm
+SHA1-Digest: xfJEugttjod7xrJadspIxJ0TTxE=
+
+Name: reference/cdt_u_fprop_toolsettings.htm
+SHA1-Digest: 1aFm+NOsYtVFm3/DSxIeth6SqA4=
+
+Name: images/fileprop_language_mappings.png
+SHA1-Digest: yFhbS/sK+kXQp7R6NaKj7D4crrs=
+
+Name: images/80/CodeStyle.png
+SHA1-Digest: zw/sZ4hU0orRxbFP4s/HqG7r9lI=
+
+Name: images/80/DiscoveryTab.png
+SHA1-Digest: gAgHFR3sfkJSAwev2J8Wnjn4tmc=
+
+Name: tasks/cdt_t_proj_platf.htm
+SHA1-Digest: cgudc3jgi86kKGc+3EYXVGu7ykA=
+
+Name: reference/cdt_o_views.htm
+SHA1-Digest: 8IjQmIu826slZmzcWSTb5TLz8oU=
+
+Name: images/debug_pref.png
+SHA1-Digest: b/po/G8XavbOeCgLQ61VfpEdwrI=
+
+Name: reference/cdt_u_dbg_pref.htm
+SHA1-Digest: VMYjr/8iAdaTtj2Jjpgdh8xMYes=
+
+Name: images/80/CodeTemplates.png
+SHA1-Digest: yV316DsxFFpa8zt2tuLJl9KhGhg=
+
+Name: images/code_style_preferences.png
+SHA1-Digest: jZYk+t/OZEpyx9OhoZEWlsU12+U=
+
+Name: images/cdt_w_standard08.png
+SHA1-Digest: kzNFnrJxQrh6ZZjut/l+lNlpkl0=
+
+Name: reference/cdt_u_prop_build_settings_errparser.htm
+SHA1-Digest: U8IvMVlDQqlH8TbNvObr0D9upUk=
+
+Name: topics_Getting_Started.xml
+SHA1-Digest: WtBKeNGJN88acjLtXspW9Jw07RI=
+
+Name: getting_started/cdt_w_import.htm
+SHA1-Digest: AdqJKwNhu8fmlsvYHkKgzAecMHA=
+
+Name: images/new_make-behavior.png
+SHA1-Digest: QtxmpClbR14QdO+foIfBwPlMbec=
+
+Name: reference/cdt_u_prop_general_pns_sym.htm
+SHA1-Digest: k3+ZE8ut45iclXgwsbQKf86IecA=
+
+Name: reference/cdt_u_pref_wizard_defaults.htm
+SHA1-Digest: ASgY5gfyc+Csr3YmA4ANqc+ArS8=
+
+Name: reference/cdt_o_mproj_pref_macro.htm
+SHA1-Digest: tJcgCZ8SPR22FsZMydgcV4dtijE=
+
+Name: images/var_declaration_obj.gif
+SHA1-Digest: sob6PCwJFcV5U/iSK0yOG9jnaI4=
+
+Name: images/nn_upc.png
+SHA1-Digest: rF5+um0VqNZApuuBjTd7U8uZSaQ=
+
+Name: images/cdt81/cdt_debug_variabletypebasedonrtti.png
+SHA1-Digest: G3Qu4HMSIXxOOWyoeZgEgdBEvTo=
+
+Name: images/60/CDT6.0_open_declaration.png
+SHA1-Digest: NbpIEZ8VqOqCycUzrSFmFhgWvfk=
+
+Name: images/prop_srcloc.png
+SHA1-Digest: s3kTigJ9w+r1bi8RDJml6XCmD88=
+
+Name: images/mpref_discovopts.png
+SHA1-Digest: NACeWQTJtc5B1xE3SIAiVOct/E4=
+
+Name: images/cdt_w_basic10.png
+SHA1-Digest: WdtpMNiTddt6YZB3tIwZHcgPo8o=
+
+Name: tasks/cdt_t_toggle.htm
+SHA1-Digest: YCZ7Q/ODX3kJefCwFqbLIkIm8Zk=
+
+Name: reference/cdt_u_prop_general_sd_providers.htm
+SHA1-Digest: j5PrvaBEu/r1NJ9XvER8YqRARK0=
+
+Name: images/70/CDT70_NewIcons70.png
+SHA1-Digest: S819g1QTO/nW8K05hbmdv4phCnM=
+
+Name: images/icon_previous.png
+SHA1-Digest: /RI7/OMcjxqegeNeyDo2mR4sVNQ=
+
+Name: images/cdt_w_newmake03.png
+SHA1-Digest: MAX/gbK2dpxlQaE0e4ynnMZuscw=
+
+Name: images/60/CDT6.0_inactive_code_outline.png
+SHA1-Digest: bblb4g+Q2nLPSEamjQgugKMSgTE=
+
+Name: images/60/CDT6.0_block_mode.png
+SHA1-Digest: wjIe5u4YLO6H9dYfGXA23lQVFog=
+
+Name: images/60/MTV.png
+SHA1-Digest: 1+RtzZKp3B3zmW/t7ZGZMrv0t9E=
+
+Name: images/cdt_update_search_results.png
+SHA1-Digest: Va63kii2AGpLUpbLZzkvKx0Qb6k=
+
+Name: images/cdt_w_import03.png
+SHA1-Digest: cw55eWSnxLQh9SRiCLhv/xGLTQE=
+
+Name: images/cdt_t_proj_new_with_template_7.png
+SHA1-Digest: JdLZdaYFiVnnIAiEi+ydg9sH7mY=
+
+Name: images/run_debug_debugger.png
+SHA1-Digest: VMXkv3A7BGcf5fkWLOoSScH/TS0=
+
+Name: images/80/CoreLabels.png
+SHA1-Digest: uWAJPvKXhNcmIbvUHqbktbwUlOA=
+
+Name: reference/cdt_u_make_settings_pref.htm
+SHA1-Digest: uXFAnbXmp9P6d7m5Hb59Ns6BkUY=
+
+Name: images/cdt_w_basic21.png
+SHA1-Digest: FKekxOyXEGIEhjbl+U1poPMa3aY=
+
+Name: images/cdt81/cdt_debug_variabletypebasedonrttipref.png
+SHA1-Digest: LeMlsXxqxh4IeQuEpCS4NTQMvJs=
+
+Name: intro/css/graphics/c_dev.png
+SHA1-Digest: HXxvBoUyPsKpq3VPNkdOIyhlE+A=
+
+Name: images/new_proj_wz_configmulti.png
+SHA1-Digest: YTyQ24V1hx3LPJxNZ0mUUmHg/Fo=
+
+Name: images/60/CDT6.0_OO_callh2.png
+SHA1-Digest: iRGEhOo4RqSiYBMx0hL7QzUm0tI=
+
+Name: images/60/EPM-multi.png
+SHA1-Digest: Q1MxS6vqer4DI2II2A4UIXmunwg=
+
+Name: images/create_make_target_win.png
+SHA1-Digest: FTNIQwFKapJIrNnmSsWmsS6i4Mw=
+
+Name: images/cdt_w_import14.png
+SHA1-Digest: 4QQ1zgAFPbzqYur6joAXUIddQnE=
+
+Name: tasks/cdt_t_add_build_var.htm
+SHA1-Digest: qHArwGzm3W/45gYP211UBiCMaGU=
+
+Name: concepts/cdt_c_open_declarations.htm
+SHA1-Digest: xZoWe1mfHAXm5lfpfyoyiFQnms4=
+
+Name: images/80/Noprojectdebug.png
+SHA1-Digest: 2ZVBBzyVBHcTcykWj2yCb+VZNew=
+
+Name: images/80/Bug-339015-MakeTargetView-SrcRoots.png
+SHA1-Digest: c9ezRzIRo7EIxHPrtBS+HpK5r2M=
+
+Name: images/80/DefaultGdbPreference.png
+SHA1-Digest: MaqXCgDcL5OY/7yu1GXj1nr7sp8=
+
+Name: reference/cdt_o_prop_folder.htm
+SHA1-Digest: 5l9KqOJ/gcGy8O9DICPeSLbC6eY=
+
+Name: reference/cdt_u_pref_build_error_parsers.htm
+SHA1-Digest: hlPp/LIJ7/uiJsjYEClLV4Qc9ns=
+
+Name: getting_started/cdt_w_prepare_workbench.htm
+SHA1-Digest: W2cvVt/cuvdOsRMN9E8lcDvqYSY=
+
+Name: notices.html
+SHA1-Digest: t6EmM/MJFEKJUjq96Na6Hy5SKHA=
+
+Name: images/mpref_env.png
+SHA1-Digest: 1Y9nYWbFkQTGE/3kvFeohfJykwo=
+
+Name: images/icon_run_exc.gif
+SHA1-Digest: IxZ7lRW1LKumSVC8C/6bCJCkgUk=
+
+Name: images/icon_ws_chars.png
+SHA1-Digest: RSI1V++0c4STwEzZp0cWSDpzcyg=
+
+Name: images/file_menu.png
+SHA1-Digest: 3012Uw7MNBzZ8KsXQvvmfrOo3YM=
+
+Name: reference/cdt_u_modules_view.htm
+SHA1-Digest: 8yvrY03JjDi8umfXofDjXUm3jyg=
+
+Name: images/icon_stackframe_running.gif
+SHA1-Digest: 2UufY0uB6ZYs0YX9C1XLKylkFbo=
+
+Name: images/view_console.png
+SHA1-Digest: hXXPmHwO3LJf/plBOuYyTCvfi9M=
+
+Name: images/cdt82/CDT-DSF-GDB-MulticoreVisualizer-selecting_loadMeter
+ s_refresh_speed.png
+SHA1-Digest: 0o3yUouM7Y/VTwrXPsJuu5XhOOI=
+
+Name: tasks/cdt_t_search.htm
+SHA1-Digest: KTq7H54Kf5/PuAkaT93M13KcP4s=
+
+Name: images/icon_reg_cast_to_type.png
+SHA1-Digest: gtlBKRsKWNNrPdy80Zx5TyavxRQ=
+
+Name: images/cdt81/corepath.png
+SHA1-Digest: 6jKjWwbA/wmI1t//QKKADdkxIio=
+
+Name: images/cdt81/debugpreferences.png
+SHA1-Digest: /yxx/foaV7rLuoPrkcD7FRGclPw=
+
+Name: images/cdt82/CDT-DSF-GDB-MulticoreVisualizer-Filtering.png
+SHA1-Digest: Mc80Ltfwb1S4BrUBTr0m1mH611I=
+
+Name: images/prop_cbuild2.png
+SHA1-Digest: 0D4wObEbX+Qnkg6upnNbUR3FC2Q=
+
+Name: images/method_public_obj.gif
+SHA1-Digest: EfeOGQ6JTSGlFNB7YobNGYhuZM0=
+
+Name: images/run_debug_debugger_advopt.png
+SHA1-Digest: j+JIFMHC5peI3jNnAk+HQRtN2As=
+
+Name: images/cdt82/MakeEditorContentAssistAutoVars.png
+SHA1-Digest: OLF2e6md2Hcg5lIwudngCqI8pYw=
+
+Name: reference/cdt_u_views.htm
+SHA1-Digest: eXCHq5jQV+fPmqOD3mjE09eQdNw=
+
+Name: images/icon_link_mem_rendering.png
+SHA1-Digest: kLB645UAKnMaNJhav4k1BaubQkw=
+
+Name: images/cdt82/CDT_GroupExpr.png
+SHA1-Digest: gsC4v6C4dgCF17QaKQehUWJfJaI=
+
+Name: images/cdt_w_standard07.png
+SHA1-Digest: HtphwDJAOdoxQAUWPyKtGMycm5U=
+
+Name: concepts/cdt_c_editor.htm
+SHA1-Digest: 9rdIPj3BO5tYCSWRzsJ3437V6zk=
+
+Name: images/icon_open_console.png
+SHA1-Digest: iU3riOIR4npL+jY4NRNbjLWEctU=
+
+Name: concepts/cdt_c_indexer_prog_bar.htm
+SHA1-Digest: vKhvIvji3ZeS+mxQK69SezMvfAs=
+
+Name: reference/cdt_u_pref_build_scanner_discovery.htm
+SHA1-Digest: UoD5pyNz3ZBwoXB5sLS4B5r4uBY=
+
+Name: images/cdt81/console81.png
+SHA1-Digest: qKlbsYjlCss1a7DD8Cn/R3Yb+pE=
+
+Name: images/prop_cbuild_selbldvar.png
+SHA1-Digest: 8ZHkn5XEReEpwCy+lnIMmXJWVEo=
+
+Name: images/icon_delete.png
+SHA1-Digest: BltSXQLPLtCBCdg911r8wIXxbfE=
+
+Name: images/mfile_info.PNG
+SHA1-Digest: AvvxlOlNHZPQWzV6SarGHAC6RqY=
+
+Name: reference/cdt_u_prop_general.htm
+SHA1-Digest: +/X5E5FAKIeJ4V932BsXRJxlbSk=
+
+Name: images/cdt_debug_hover_modes.png
+SHA1-Digest: 8a+FHmSqMZO1mBcBjSBa9VtqI54=
+
+Name: tasks/cdt_t_sd.htm
+SHA1-Digest: ZCTobN3T6SUT3S7yrTd4II7Sifw=
+
+Name: images/c_file_obj.gif
+SHA1-Digest: 6Q1XNEynHaXKe/phLAU0R80l/cw=
+
+Name: images/80/WithInferior.png
+SHA1-Digest: S+Ka3pb0JwcicIXB74WZcPu442s=
+
+Name: images/cdt_w_newmake02.png
+SHA1-Digest: G/K7vCSWy8Q0NV75YLBf7bmfCes=
+
+Name: images/80/AutoAttachOption.png
+SHA1-Digest: gdtgzHJ6i6XN++o+p1FSFzMH/dc=
+
+Name: intro/cdtIntro.xml
+SHA1-Digest: h8bZqJHTUQd5OhlmbZtftKK9wtY=
+
+Name: images/new_proj_wz_type.png
+SHA1-Digest: tGmhxiJcM2SrI+7elsDIXYpy+O0=
+
+Name: images/icon_next_error.png
+SHA1-Digest: IS57QSIofjg8JMkV0OnNbetOXi4=
+
+Name: images/scanner_discovery/sd_prop_entries.png
+SHA1-Digest: Hl8R9UQ1mqYe7XFTR/TeDe81uhM=
+
+Name: images/cdt_buildenv_selectvar.png
+SHA1-Digest: EVSPaEyiF2a6O7E9SRbIHnaeCYY=
+
+Name: images/icon_build_target.png
+SHA1-Digest: xMrPEbNO+nSmOs9dam8LUNbGDKI=
+
+Name: about.html
+SHA1-Digest: bgl6QBaRtLyOnxYBtjbyDv18aRY=
+
+Name: images/cdt_w_import02.png
+SHA1-Digest: lmPbtGiUFLZUdNaFdgE50S+eKBY=
+
+Name: images/cdt82/CDT-DSF-GDB-RevBPAction-create.png
+SHA1-Digest: 3bdPdqMBGh0bV9IklY3yXXoSfMc=
+
+Name: images/cdt_t_proj_new_with_template_6.png
+SHA1-Digest: sPWgtDgJwYANyaNZeGnytqigZ4Y=
+
+Name: images/icon_db_relaunch.png
+SHA1-Digest: wUPCfYWzVymlCt8HkcUKKQEEJC0=
+
+Name: reference/cdt_u_prop_general_pns_src.htm
+SHA1-Digest: 6ZTk3qAG8MyB6PGeUPF/wfG1JiI=
+
+Name: images/prop_inc.png
+SHA1-Digest: uTkbBwGdFTHsMPEbY79m06i4SjM=
+
+Name: images/icon_build_sel.png
+SHA1-Digest: rAj3HE114hUZGyzxgDf3brFMpAw=
+
+Name: images/makefile_editor_folding_prefs.png
+SHA1-Digest: yJTDXi72ujS4sw011kAnwNTEy5c=
+
+Name: images/code_templates_new.png
+SHA1-Digest: /2mYB8udz4XNbUnVtqkoupcNkoY=
+
+Name: images/cdt_w_basic20.png
+SHA1-Digest: 5QhOT1PRK5U4KU0I7celX5E7LHY=
+
+Name: images/project_new_cppfile.png
+SHA1-Digest: r1vFb/FzUhBLWaWRtIarrt8auNo=
+
+Name: images/refresh_nav.gif
+SHA1-Digest: IPzWNbfeNaDRxPme4OxQMAexE0Q=
+
+Name: reference/cdt_u_properties.htm
+SHA1-Digest: +OWSnfAJ6rt0RGBFWnzxxrom2eg=
+
+Name: images/new_proj_convert.png
+SHA1-Digest: 09B+v4saFybaBpoKmEaTH+eT1Fg=
+
+Name: images/union_obj.gif
+SHA1-Digest: zXaO98jtlkNbMywbUOmq2RQk91o=
+
+Name: images/icon_show_selected.png
+SHA1-Digest: m9TLhZGEDm1Dbyn8nta1pUgPVh0=
+
+Name: images/cdt_w_import13.png
+SHA1-Digest: izYtQyotA5nxefKVJDSzT1iA40M=
+
+Name: images/cdt_update_jar_verification.png
+SHA1-Digest: 7aj7/o3vGoBSK7UpNRTPFIIqDj8=
+
+Name: intro/swt/whatsnew.properties
+SHA1-Digest: w11F4TdjroKRLwua0dkGCFcX6iw=
+
+Name: images/icon_new_make_target.png
+SHA1-Digest: kQFIvpg16gqqUsgX5TeEhTalT00=
+
+Name: images/icon_resume_at_line.png
+SHA1-Digest: s/8gi2E3PRaCE96VZE5WzuxHjiA=
+
+Name: reference/cdt_u_view_executables.htm
+SHA1-Digest: ufzf+VIPLTDc8/jmaci+BGJ7M4o=
+
+Name: images/icon_db_terminate_all2.png
+SHA1-Digest: Q5HWg/boOZFR/0mKkRBjm1SHoNY=
+
+Name: images/btn_columns.png
+SHA1-Digest: H2UpLGFRTJbT2XHRc2Vf2Ro6SpY=
+
+Name: images/searchView.png
+SHA1-Digest: ld+hsm0aDX+UWh61QF7T7fZhPGY=
+
+Name: images/icon_db_suspend.png
+SHA1-Digest: s/itx9pYOM1gywV69V7PQgXRDZU=
+
+Name: reference/cdt_u_dbg_src.htm
+SHA1-Digest: 1ssTCjtxygXKxpL9UzFwhFAqUo8=
+
+Name: concepts/cdt_c_over_cdt.htm
+SHA1-Digest: OAehD5DNEJ3KleErhZlcxte8zq0=
+
+Name: images/icon_watchpoint_readwrite_obj.gif
+SHA1-Digest: WBMQ9bRICaXH2vLvetyulyx56C8=
+
+Name: images/run_debug_source.png
+SHA1-Digest: 2ZLfFTsfbaIxMbUcBv6AoTjSPpU=
+
+Name: concepts/cdt_c_whatsnew_60.htm
+SHA1-Digest: esr2X5Xe9wrEeqCf2Heun0iiEcI=
+
+Name: images/view_properties.png
+SHA1-Digest: Q4nEdHcTuzV53nLnsqY5kjNZAAw=
+
+Name: images/cdt_debug_bp_filter.png
+SHA1-Digest: O4kZ1pW0HQmF7ppmJa76V468iTw=
+
+Name: images/scanner_discovery/sd_prop_providers.png
+SHA1-Digest: 4nmKM2dQWrmpiQYXGZM2AaHuaqI=
+
+Name: tasks/cdt_t_addmaketarget.htm
+SHA1-Digest: rXQErJ9NO5ThfwMK0zDCSS9KhMg=
+
+Name: tasks/cdt_t_proj_rename.htm
+SHA1-Digest: yAbrts39vvaUiZ9jp/n/Ze6ViwQ=
+
+Name: images/warning_co.gif
+SHA1-Digest: r8jkafiVdHro1lamRSPgD4sQlcw=
+
+Name: reference/cdt_o_new_mproj.htm
+SHA1-Digest: FcGnEf/HTjsRw7u5bu/W1Mu1/KQ=
+
+Name: images/view_executables.png
+SHA1-Digest: tpUGoYR+/a4lcON0anpmlyl5C0M=
+
+Name: tasks/cdt_t_manualbuild.htm
+SHA1-Digest: iUU4tIpwtvAPOJp0ZFFf2O0NojM=
+
+Name: images/70/CDT70_ConsoleProblemHighlighting.png
+SHA1-Digest: c4nwJraxsmBqWAckFiWi59cltUw=
+
+Name: tasks/cdt_t_set_src_fold.htm
+SHA1-Digest: tYDV6J5BPnB5VjZTOAwUKwk87vw=
+
+Name: images/nn_include_browser.png
+SHA1-Digest: 1Fep19Bfhem+DBZCxr2dxP6mnlk=
+
+Name: images/icon_up.png
+SHA1-Digest: dUkYomE8cqfIaMtMVzKJFo3JF7A=
+
+Name: images/cdt_w_viewMenuFilters.png
+SHA1-Digest: u5BIbS6rmD2HBwLbao8JURBKMy0=
+
+Name: images/ng2003.gif
+SHA1-Digest: YAu1TSxRSNVynQgCG9HMM/SLc1E=
+
+Name: reference/cdt_u_call_hierarchy_view.htm
+SHA1-Digest: HCSfi1YQ242p1n1+d/6bZAVAhys=
+
+Name: tasks/cdt_t_comment_out.htm
+SHA1-Digest: 4ED5vm9RNYDILy1fNLgpJBJ49AU=
+
+Name: images/cdt_w_standard06.png
+SHA1-Digest: /IOrYMSCXHR1gTYaj0cgm938FvY=
+
+Name: reference/cdt_u_run_dbg_launch_group.htm
+SHA1-Digest: w/B0cd6atg7Xgueh17GBRh8XpwI=
+
+Name: images/icon_db_terminate.png
+SHA1-Digest: 6VGv/1gLQD+YseYF/j/IuqezMk8=
+
+Name: images/prop_doc.png
+SHA1-Digest: +6wKQl1/+nb0WtgH8Ut7pN+N52s=
+
+Name: tasks/cdt_t_cust_cpp_editor.htm
+SHA1-Digest: KT9jQ9AoT8N8scpAj9l+ZPDPzek=
+
+Name: tasks/cdt_t_cbuild_pref.htm
+SHA1-Digest: 0B2uXYpggSrzzHqiRPy9qlK7t+c=
+
+Name: images/cdt81/code_style.png
+SHA1-Digest: z7eo3e+xlVrtghJGLpyAO44ij0c=
+
+Name: images/70/CDT70_BuildPreferences.png
+SHA1-Digest: K3twjWN1KAlHfuf1fGhaV7gBBgY=
+
+Name: images/icon_reg_change_value.png
+SHA1-Digest: ihsZiTsOE15FoApgNWVyGOvm/Z0=
+
+Name: images/icon_wset_add.png
+SHA1-Digest: j+5zTi5JI7CcLwxMwq86QgOEVDU=
+
+Name: reference/cdt_u_navigator_view.htm
+SHA1-Digest: h1VAointr8d7XErBHIi/QMMsks0=
+
+Name: images/cdt_w_newmake01.png
+SHA1-Digest: HRiGw7NiEXHDSMo50MFs1NFra9Q=
+
+Name: images/mpref_macro.PNG
+SHA1-Digest: LUkVdVK6Ht6kzwYNmEKu9hZd688=
+
+Name: images/icon_disconnect.gif
+SHA1-Digest: 5ZmChw1JZz9cmiowj7hgxsZFj4o=
+
+Name: concepts/cdt_c_build_over.htm
+SHA1-Digest: vs7obTcukvX3j/rhnC5LMKM9pPE=
+
+Name: images/cdt_w_standard17.png
+SHA1-Digest: hnbW6aognTj14JFW8sirqMIbPnY=
+
+Name: images/cdt_w_import01.png
+SHA1-Digest: Gj0rToAPEBu8axzw4skoBXYyk6o=
+
+Name: images/icon_db_terminate_remove.png
+SHA1-Digest: zifZQAkHnSGhB3AQjqvuDRoCYSw=
+
+Name: reference/cdt_u_prop_build_settings_binparser.htm
+SHA1-Digest: Q15mgTDfqR6B8pkIjP2+OSRc0OU=
+
+Name: images/cdt_t_proj_new_with_template_5.png
+SHA1-Digest: SsYaf+leBc4g2aeosXP1R/95xY8=
+
+Name: reference/cdt_u_memoryview.htm
+SHA1-Digest: K5r0MfEvWSp4MLKgznjjVGcXVPo=
+
+Name: images/icon_db_edit_src_lookup.png
+SHA1-Digest: W7uWQ/0h48rwHej1p7APHG+dwEA=
+
+Name: images/cdt82/CDT_NewExecutableDialog_Local.png
+SHA1-Digest: j/u6fGJDn1imMuwboYiMJ3VHb1E=
+
+Name: getting_started/make_example.htm
+SHA1-Digest: AEEaqm8UPSaVmSs2twgM+YVvONI=
+
+Name: images/cdt_debug_run01.png
+SHA1-Digest: APHCWBSlkoWS6et1td44PuSgYaA=
+
+Name: images/mfile_build_rcbs.png
+SHA1-Digest: +RLZUHGpmK+Vq7o7IYIfR8NrerE=
+
+Name: tasks/cdt_o_write_code.htm
+SHA1-Digest: cbpHRMFPg2DSHK6jUpmpvMyQzjw=
+
+Name: images/namespace_declared_obj.png
+SHA1-Digest: 7W/argOCVKJuhXoHYSPy2GpF19s=
+
+Name: images/view-collapseAll2.png
+SHA1-Digest: H3gYs2mCYdqbdcIai+peTeEwRKs=
+
+Name: images/run_debug_main.png
+SHA1-Digest: tkMLLScrY8b0btJj6T/VHlsx+pw=
+
+Name: images/cdt_w_import12.png
+SHA1-Digest: qBvO9UxRFARzY9uY/T+mpiuvMmU=
+
+Name: images/cdt_w_indexer.png
+SHA1-Digest: VClldrZKE+kMX1+ZPC09cDf7n/k=
+
+Name: topics_Concepts.xml
+SHA1-Digest: 1VFyA4SQJMY94ol5JY+c97457pI=
+
+Name: reference/cdt_u_prop_build_settings_tool.htm
+SHA1-Digest: sVQ5OLUxjuwjiLWysMMjXyQoYTc=
+
+Name: tasks/cdt_t_shift_code.htm
+SHA1-Digest: arrHprsVJKIn5oAVu4NAJRDLE14=
+
+Name: images/splash.png
+SHA1-Digest: qL9ntwIrMzk/7m+r/49llYPRfbk=
+
+Name: images/icon_build_make_target.png
+SHA1-Digest: LoeR2Xwu8pTC6o6j/E4Z5gilmeY=
+
+Name: concepts/cdt_c_over_dbg.htm
+SHA1-Digest: mJAM6jxKl+ljLntQ/8s5IdxphsM=
+
+Name: images/prop_bin.png
+SHA1-Digest: 29jGMfjPXMaLeK95rvAGJhTWfmE=
+
+Name: index/segments.gen
+SHA1-Digest: X7SiT4muEfvVrQDfJyY2pELrn3M=
+
+Name: reference/cdt_u_pref_build.htm
+SHA1-Digest: ph8p+hLW9dGwSIgXToxkLHSqa7Q=
+
+Name: reference/cdt_u_prop_general_typ.htm
+SHA1-Digest: WDkCeW6i7kSY0xu1KvhBq6zRROs=
+
+Name: reference/cdt_u_problems_view.htm
+SHA1-Digest: QadVtt7kVHO6YQpM/SUjjrYsfI8=
+
+Name: reference/cdt_o_prop_file.htm
+SHA1-Digest: P+LU8yUwNewagPlKX6ChGYJ6eP8=
+
+Name: images/icon_db_terminate_all.png
+SHA1-Digest: cfumvz/6wka0ze1fWfReL4BoAuA=
+
+Name: images/cdt_w_basic06a.png
+SHA1-Digest: ISaS4QMedGCKro7JoYXVj3+VieQ=
+
+Name: getting_started/cdt_w_newcpp.htm
+SHA1-Digest: NEK/aHcxuVe6OT+w9uC4eRnzmjg=
+
+Name: images/cdt81/cdt_debug_varsinappplicationfield.png
+SHA1-Digest: OsvDtMrCa2o6PS58SWnaZ+Lx02w=
+
+Name: reference/cdt_u_search_view.htm
+SHA1-Digest: SvJBJUVN6OxFxR4QWJo5TxuoWkQ=
+
+Name: images/outlineView-Sort.png
+SHA1-Digest: dPJNIa3bKKZxICjTkruSUJ7ZmFE=
+
+Name: images/icon_edit_make_target.png
+SHA1-Digest: nCGaD7pK8JZ3d62ZSWmskGxAl4g=
+
+Name: tasks/cdt_t_sel_search.htm
+SHA1-Digest: YfRqciw9C7V5XQS+iv348BLsgGk=
+
+Name: reference/cdt_u_run_dbg_dbg.htm
+SHA1-Digest: pROC0teZ6+/3NAxamIpkiRdGp+M=
+
+Name: images/cdt82/StepIntoSelectionHyperLink.png
+SHA1-Digest: m3us/fpNpyMP400s+TnPpzbJzHc=
+
+Name: images/prop_libpath.png
+SHA1-Digest: 2rRB2+hxVODzOOnUNJZ3yLn9px4=
+
+Name: images/icon_con_disp_console.png
+SHA1-Digest: TMQpNl+wOs7eYbSyBc8itRiyckM=
+
+Name: images/70/CDT70_Templates.png
+SHA1-Digest: vJosw1FIjZlArMonwrca7NAECDM=
+
+Name: images/cdt_update_install_new.png
+SHA1-Digest: D53Gks0Aik/U+2YIe67fDdXOPKM=
+
+Name: reference/cdt_u_newproj_def_symb.htm
+SHA1-Digest: j8sSiE5QHdvM7MlVpWRw64d5pzw=
+
+Name: images/cdt_w_standard05.png
+SHA1-Digest: 7AqF26ZJEbImyIIgWd22eq/wnEU=
+
+Name: images/view_registers.png
+SHA1-Digest: zsWuvohBwHDI6/KbH7K2nLjdUa0=
+
+Name: images/view_dissassembly.png
+SHA1-Digest: VREBqaAEQHcOU3vW08Jk0skNBAo=
+
+Name: tasks/cdt_t_create_make_target.htm
+SHA1-Digest: oMQUJmh2uA4fbM22sTB+NW4mhFw=
+
+Name: images/project_properties.png
+SHA1-Digest: jekK08xnbLpR5dh64adSTK14Q/E=
+
+Name: images/prop_variables.png
+SHA1-Digest: CD9PvfP8zxabWDkvK9Z7XmI6Jv8=
+
+Name: reference/cdt_u_new_proj_wiz_type.htm
+SHA1-Digest: 89I2kSaLPXXCXpZH+DuQqeBVetY=
+
+Name: concepts/cdt_c_whatsnew_70.htm
+SHA1-Digest: 33hF9+vlbzesp3i/9lNvaMApclc=
+
+Name: images/icon_memory_update.gif
+SHA1-Digest: pL2YzDTQ9pLHVo7CsSrjLFU/RnY=
+
+Name: images/nn_mingw_project.png
+SHA1-Digest: 8nOX6dVGelfnb1eBfp3YuPpjjao=
+
+Name: images/icon_back.png
+SHA1-Digest: u+WCzc6RXCnV2etLrdTNkYi5QEY=
+
+Name: tasks/cdt_t_debug_prog.htm
+SHA1-Digest: wntyjtiC/HHvwhHxcPvWwv9d4uo=
+
+Name: images/contentAssist_example.png
+SHA1-Digest: C9QMNezzuXYDQYHzXLRRRpclAJo=
+
+Name: images/run_common.png
+SHA1-Digest: +gnl+PAAtfY3+QjLVYks0cEsMjA=
+
+Name: images/prop_ftypes.png
+SHA1-Digest: Io2nwSd7Z+42V9HcL0CHAB3wa0Q=
+
+Name: getting_started/cdt_w_newproj.htm
+SHA1-Digest: u2jZ7dtmKqFru3qIM0nF96APtTM=
+
+Name: reference/cdt_u_toolbar.htm
+SHA1-Digest: khAFI1PFoNv+Ld4Oy09/udGc7TM=
+
+Name: tasks/cdt_t_add_brkpnts.htm
+SHA1-Digest: MeEQdlYRvMztAVc/mM/R9hAXmjQ=
+
+Name: reference/cdt_u_c_editor_con_assist.htm
+SHA1-Digest: kLjLfujgs5zJwYUfH0SYzmYoKK4=
+
+Name: reference/cdt_u_new_proj_wiz_config.htm
+SHA1-Digest: y603dNn/jMrzLFngOk14rrrR52w=
+
+Name: images/cdt82/CDT_Debug_ExitCode.png
+SHA1-Digest: mI/uwfhYaz1QOCG6jmrnBmGwbVA=
+
+Name: reference/cdt_u_project_explorer_view.htm
+SHA1-Digest: XrMkx+FacZ5tWWXz2KTlw9SK2pM=
+
+Name: images/run_debug_arguments.png
+SHA1-Digest: ojZlDo7eRtYoTzROFswoCRReREo=
+
+Name: contexts_CDT_DEBUGGER_MI.xml
+SHA1-Digest: SnM21dgohJ0NYg2aOIs5ml9kT3c=
+
+Name: images/icon_next.png
+SHA1-Digest: KRGT9RCLzJ/rIv6XxUa3J6b6V+w=
+
+Name: images/icon_db_drop_to_frame.png
+SHA1-Digest: hU9qMWUa6wJ6ml9WP5jyF97D0wY=
+
+Name: images/cdt_file_steps.png
+SHA1-Digest: tocGi4ErHpANXNe2BZppTz5uu+g=
+
+Name: images/icon_warning.gif
+SHA1-Digest: 8Gp/lF131Rn2bCeWJz03HWMVd5w=
+
+Name: images/cdt_fold_resource.png
+SHA1-Digest: JsqI29gWW8vOF9hv9qSqPrKn5tQ=
+
+Name: getting_started/cdt_w_install_cdt.htm
+SHA1-Digest: sV/60nEUVuNHxOwUD98e0TxSFps=
+
+Name: reference/cdt_u_run_dbg_arg.htm
+SHA1-Digest: 1fQMurUi8w8Qr16NK6A8aW8i1co=
+
+Name: images/icon_hide_variables_more.png
+SHA1-Digest: 5x2mRtGO55TuOWYh2tNgRlr3plA=
+
+Name: images/cdt_w_standard16.png
+SHA1-Digest: mFVbes2k5TjFQrptofMXHcE4xSU=
+
+Name: images/icon_reg_disable.png
+SHA1-Digest: WSwym5MhpjEjPLGDtifBdiZDC4A=
+
+Name: images/prop_cbuild.png
+SHA1-Digest: uqShLLKv30ZkucMxRs0okPrzvTg=
+
+Name: images/view_editor.png
+SHA1-Digest: uytz7r+h+fpDNOOwQb+A11+WAgM=
+
+Name: images/icon_db_stepover.png
+SHA1-Digest: hPtCld2XqDTOy7N8B66CI4ZgXZ4=
+
+Name: images/cdt82/PropertyPageSettingsScannerDiscovery.png
+SHA1-Digest: rKrf+E15s0lEbngYsoXI1cOw8so=
+
+Name: images/icon_nav_back.png
+SHA1-Digest: dsQqu01l5z8TJeOw6R4ze7KR2g0=
+
+Name: concepts/cdt_c_whatsnew_81.htm
+SHA1-Digest: sKXJpbuSoQFjJweEtsxfDPMymto=
+
+Name: images/cdt_t_proj_new_with_template_4.png
+SHA1-Digest: mV766N27q+/4/egBAdan1BkgFt0=
+
+Name: toc.xml
+SHA1-Digest: md7xrOGoQuiUPwSPiInb4zYgyBw=
+
+Name: images/view_problems.png
+SHA1-Digest: 2MRHI5NgNvdQE86Tl1E09I3Pp3Q=
+
+Name: images/run_common_folder.png
+SHA1-Digest: zMdnu/adRvex3odrrKIDjkI10rM=
+
+Name: concepts/cdt_o_code_entry.htm
+SHA1-Digest: 3V04vwaxooIuaN851l4CKWO7+Uk=
+
+Name: images/view_problem.png
+SHA1-Digest: r45Cu5s5xGf0sE7CBtfqTH5Ki8s=
+
+Name: images/icon_hide_make_targets.png
+SHA1-Digest: H3PvHyBgyyOSEPAESQLmv1m5eGs=
+
+Name: images/manage_defined_symbols.png
+SHA1-Digest: 0uEw6kiYY/z4a/ohPXSF0cfSrlo=
+
+Name: contexts_CDT_make.xml
+SHA1-Digest: +q4NJQY71uKP1XaHZ9JGyZmm+nU=
+
+Name: images/public_co.gif
+SHA1-Digest: NYma8DSBQpC9GvupBHyEy+SNmAM=
+
+Name: images/editor_general_preferences.png
+SHA1-Digest: Z+P2YXiVQ0mJkdyueScIVUxqAEQ=
+
+Name: images/new_project_wizard.png
+SHA1-Digest: yfFreL6S3gIfPNbOZw2smVBxuxo=
+
+Name: images/pref_panel_code_templates.png
+SHA1-Digest: PFYlj8HALtSsFDogIFxWKfNiXas=
+
+Name: reference/cdt_u_prop_ref.htm
+SHA1-Digest: 1Dxm+IW1upUtaR5pFxpA+ET4chw=
+
+Name: images/dprop_make_discovery_file.png
+SHA1-Digest: iDlWF14/l3VEnyz4Ra/B6fvRnOA=
+
+Name: images/pref_traditional_memory_prefs.png
+SHA1-Digest: jNoXh4BetGmMNeLqiYI3F3jUfq0=
+
+Name: images/cdt_w_import11.png
+SHA1-Digest: yzO98Sp6+F+luvbBH4WaPjs1z88=
+
+Name: images/icon_db_copy_stack.png
+SHA1-Digest: wY/Bgreh4Ul10l5ZP6UbGNe4zR4=
+
+Name: reference/cdt_o_mproj_pref.htm
+SHA1-Digest: AyA0anKjNjqT62c7vQ1cIWS8v3M=
+
+Name: images/icon_hide_inactive_includes.png
+SHA1-Digest: hJpRDjIWDv0nIhSQuhN6oEyIoEU=
+
+Name: reference/cdt_u_create_make_target.htm
+SHA1-Digest: 8XqOnJcb3YND+C1nsSVrnseib/Q=
+
+Name: intro/css/graphics/c_dev_hov.png
+SHA1-Digest: DIHL/ulcrCpOgydHEDxRLUxnocs=
+
+Name: reference/cdt_u_fileprop_lng.htm
+SHA1-Digest: JWyArNDD0ex6Y9UkSS0lscT5WiY=
+
+Name: images/prop_rundeb.png
+SHA1-Digest: vkEetC54S0UcH9GNqerZ3m58ehM=
+
+Name: images/view_environment_prefs.png
+SHA1-Digest: 30OtGWygOKyYPcGqs7sBCPPkd2o=
+
+Name: images/remove_exc.gif
+SHA1-Digest: qO3XKAvjozrfv3BR2SGgqUhzn9M=
+
+Name: images/ng00_04a.gif
+SHA1-Digest: 2oyX+M6tkbk0w1K4R8kgGB+/qDA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: QdryQvJlVywlE0MGLuwYCkmkyWk=
+
+Name: reference/cdt_u_dbg_breadcrumb.htm
+SHA1-Digest: nXdBLkUE847ickagoX2CicXdjL4=
+
+Name: reference/cdt_u_c_editor_hov.htm
+SHA1-Digest: Y2t2PFNgOBzG2Y8P3kywi8Qswd8=
+
+Name: images/prop_file_lang.png
+SHA1-Digest: lH+sjvaFvNnusawd7VFMzVF6p+4=
+
+Name: tasks/cdt_t_proj_referenced_configs.htm
+SHA1-Digest: 99o9LOKxz/C5izjNZqrjiJ4kSmM=
+
+Name: reference/cdt_u_debug.htm
+SHA1-Digest: AaK5suoqef6ANMJz8DHDcHtRU2Q=
+
+Name: reference/cdt_u_make_pref.htm
+SHA1-Digest: 1XwBsIEIRAfAcoAQvyNQXuRkdm4=
+
+Name: images/editor_c_codetemplates_use.png
+SHA1-Digest: 6pPnncOmdi4StoZpAJVEWRE6BMY=
+
+Name: reference/cdt_u_c_editor_color.htm
+SHA1-Digest: VqX/q9vy0Btz4lutpd3JS/7eX+w=
+
+Name: images/nn_inactiveCode.png
+SHA1-Digest: hqrARCFqsRJoQd+rWMxKEjtROjg=
+
+Name: images/projects_properties.png
+SHA1-Digest: rrhwXOACkjFiq2OikvPPWKEl31A=
+
+Name: images/super_co.gif
+SHA1-Digest: ERseh35lR4O3Nip2LTV6/Qs+oIs=
+
+Name: reference/cdt_u_code_temp.htm
+SHA1-Digest: EJjJ1H24SPC52YOGsd+MVMvujyI=
+
+Name: images/c_element_filters.png
+SHA1-Digest: 5rKLApPB+FhvinivZ6TCkIJUN8g=
+
+Name: images/cdt_rename_dialog.png
+SHA1-Digest: 23ihNX1Ya7fC4ZMaDSPXUc/BBBA=
+
+Name: images/icon_pin.png
+SHA1-Digest: lObf+xz9WUz9znoTE1rwGxBP2AI=
+
+Name: tasks/cdt_t_add_brk_action.htm
+SHA1-Digest: 0xP4OfdtbRNqjkQW8MK5HQcbWYo=
+
+Name: reference/cdt_u_prop_manage_newdialog.htm
+SHA1-Digest: PMayoEYkSNe/fLyPPIVwndq7+Hk=
+
+Name: tasks/cdt_o_proj_files.htm
+SHA1-Digest: kSBJltYUjMwv4PxKeyl5QM4F3Ek=
+
+Name: images/c_cpp_app_preferences.png
+SHA1-Digest: 9kYtV2mlr642XVqJilnDQ+J9WI0=
+
+Name: images/new_proj_convert_candidate.png
+SHA1-Digest: hvjbo88b/26s2crsRd+QrRPPOqM=
+
+Name: images/cdt_w_standard04.png
+SHA1-Digest: aNDFbnh1Yvv8yIgqO6L/5x1bBzM=
+
+Name: images/run_debugger.png
+SHA1-Digest: zPc1vKvDWOjLNnUzH0IPVEjPtgI=
+
+Name: concepts/cdt_c_makefile.htm
+SHA1-Digest: dJncll0si8j18SofzsB1wejqpaM=
+
+Name: reference/cdt_u_fileprop_inc.htm
+SHA1-Digest: T0dqN859HDLWTRN5U++PM2VbMDw=
+
+Name: plugin.properties
+SHA1-Digest: 9bK89IuEfUWQxS4PzctsVwYEEus=
+
+Name: META-INF/maven/org.eclipse.cdt/org.eclipse.cdt.doc.user/pom.prop
+ erties
+SHA1-Digest: 7Tssd+m9B9w2YadcMqt+yfOAShc=
+
+Name: reference/cdt_u_outline_view.htm
+SHA1-Digest: ttnhhSVyFn3W4Dw0Lfc4pu8nxik=
+
+Name: images/80/CDTConsoleStart.jpg
+SHA1-Digest: x+j/r7cAQeQBkwv3QxN4uXyL/WE=
+
+Name: images/icon_search.png
+SHA1-Digest: wYh+Lnmn8wneI6A+5LC0kXbNm1g=
+
+Name: index/indexed_dependencies
+SHA1-Digest: c4FGLyns/gCOzlesjGGSbU/JAjc=
+
+Name: images/cdt_update_find-install.png
+SHA1-Digest: pE97I1WZ/mjjrLa3I8R2V6K+5iE=
+
+Name: images/nn_contextlaunch.png
+SHA1-Digest: pwSBOqNzVWSUCIfIptEjMUmIbPA=
+
+Name: images/cdt82/CYGWIN_HOME.png
+SHA1-Digest: 2mFUszxpAyN929uIL1JqoUMSry4=
+
+Name: reference/cdt_u_run_dbg_srce.htm
+SHA1-Digest: J1aRzHO9ac+ttwTw4dphOUR3hVs=
+
+Name: images/task_binary_pref.png
+SHA1-Digest: InEz4aULSRL2xo5JPOye/oJ/3wM=
+
+Name: plugin.xml
+SHA1-Digest: 4zmbczaPRdT/pv9z0QGP/RY88sE=
+
+Name: META-INF/maven/org.eclipse.cdt/org.eclipse.cdt.doc.user/pom.xml
+SHA1-Digest: kmuIzi8LUmwSNA9MZSuaWHlD3ZU=
+
+Name: images/mpref_toolchain.png
+SHA1-Digest: kOneerQjRmokGr39Vy7v9hyADjg=
+
+Name: images/prop_mng_add.png
+SHA1-Digest: g6+LWCyQKcUW2HnEJ7AFmFixww0=
+
+Name: images/contentAssist_preferences.png
+SHA1-Digest: u+Zj10GGv3oNH0bl40Mb0RNw6NM=
+
+Name: reference/cdt_u_c_editor_mark_occurrences.htm
+SHA1-Digest: nr3+jCUceYC3W8zWo3wmwDLHeU8=
+
+Name: index/indexed_docs
+SHA1-Digest: D5tlR2Bzdn7VmrDHAo/ctNoaOhA=
+
+Name: images/cdt_w_standard15.png
+SHA1-Digest: kXyTRljlM/bSDmiVjIkzqVck0QE=
+
+Name: images/icon_db_disconnect.png
+SHA1-Digest: nJ59gb18eowfnrLCqp2jQagv7fY=
+
+Name: images/70/CDT70_NonStopDebugging.png
+SHA1-Digest: g26kJJZi9SZQTUyKx9qKfviHp/Q=
+
+Name: images/icon_show_prev_reference.png
+SHA1-Digest: om84WhE+D25oEfkwYV4rVtGuaao=
+
+Name: concepts/cdt_c_whatsnew_80.htm
+SHA1-Digest: vA2T1ReeCMUYUgGarP2sgvH1wXg=
+
+Name: images/icon_breakpoint_obj.gif
+SHA1-Digest: yC1teDfWm56ytwAfNgwFVY2W1TI=
+
+Name: images/view_navigator.png
+SHA1-Digest: xFeM9OQv3u5uC5fkQ6sn+o3Cw3U=
+
+Name: images/cdt_t_proj_new_with_template_3.png
+SHA1-Digest: 37PYjXCRXjwoTvyOpl/dLUAFCEM=
+
+Name: images/60/CDT6.0_outline_group_methods2.png
+SHA1-Digest: kJ7BgHSgUkNOINTCCLz+F5IDMWI=
+
+Name: tasks/cdt_t_jumperror.htm
+SHA1-Digest: mRT1FiYuFpjD4C5wgnZrCFhEBC4=
+
+Name: tasks/cdt_o_con_assist.htm
+SHA1-Digest: e6gwbgDmywXaNLchlWnzOTHepiU=
+
+Name: images/cdt_autobuild.png
+SHA1-Digest: G6J0M4dbPYfbdEq8jqk+t6pS4Kg=
+
+Name: topics_Reference.xml
+SHA1-Digest: gojOWkyz/R0t3I/phr6aBgPabVU=
+
+Name: images/icon_db_resume.png
+SHA1-Digest: zUD2/9u4WQQMiWIic1+6UnZsdiM=
+
+Name: images/cdt81/charsetdebug.png
+SHA1-Digest: NUJJH/R6LnmQG6/6FGL5CJiZpQQ=
+
+Name: images/icon_debugt_obj.gif
+SHA1-Digest: qL7Dj+LfUwl5rGDcGQLZATGsx4k=
+
+Name: images/typedef_obj.gif
+SHA1-Digest: mj1fwszJgbZwwHfaXp3r5YEIXJc=
+
+Name: images/70/CDT70_ProjectContextMenu.png
+SHA1-Digest: F7nzx3+AcoJioCBekSh+S95D2Vo=
+
+Name: reference/cdt_u_indexer_preference.html
+SHA1-Digest: yP8FvamowRNBq7qj33f/ai8kdjI=
+
+Name: images/cdt81/pin_view_call_hierarchy.png
+SHA1-Digest: TBA6/FQCwRrTCzl09gP8C8qLNbc=
+
+Name: reference/cdt_o_ceditor_pref.htm
+SHA1-Digest: WAFrOkVwgzwNZQP9W5pN2mhS8ZI=
+
+Name: images/scanner_discovery/sd_bop_options.png
+SHA1-Digest: jJk6f6erbSf/q81qtnoM8OLAAn0=
+
+Name: images/run_arguments.png
+SHA1-Digest: Vp/VJUP6SheGZzRojfdrOHb9iDs=
+
+Name: images/cdt_w_import10.png
+SHA1-Digest: eHPZPStw4rA7JnYS8iwMrVegP9U=
+
+Name: tasks/cdt_t_discovery.htm
+SHA1-Digest: kaiFdrlumOiO/wG26Z3Gftcp9mE=
+
+Name: images/view-forward.png
+SHA1-Digest: YPk2IXfYNoFmWrIe9h1g82+F7ac=
+
+Name: images/cdt81/cdt_debug_hidingpref.png
+SHA1-Digest: WZYNKeB2wHOWa6+DYEhcZ+mxhlo=
+
+Name: images/cdt_pref_build_vars.png
+SHA1-Digest: eITbPciGEMipaGKqrRwW1+r48ZM=
+
+Name: images/ngconcepts.gif
+SHA1-Digest: 8AAYYWWiwQFhyI1gcfTk92ik0ZA=
+
+Name: reference/cdt_u_fileprop_steps.htm
+SHA1-Digest: sjGW/8HsQLAptYHKYP7rUnFAlng=
+
+Name: images/icon_pin_memory.png
+SHA1-Digest: kKLijBHottMu5nsI+KL9XZkryew=
+
+Name: tasks/cdt_t_proj_paths.htm
+SHA1-Digest: lSkWpXziWqIFz/VoNKsXdzi/LLs=
+
+Name: images/cdt_refactor_undo.png
+SHA1-Digest: XIiw0vGwwE4/7G4g4odo2hO3tmo=
+
+Name: images/cdt82/BpFilter.png
+SHA1-Digest: NfOt4wB8SGIbXCVmSP8GzV9yb+M=
+
+Name: images/debug_gdb_pref.png
+SHA1-Digest: GyptQEMhuMOdvBFb8etZNJouJb8=
+
+Name: contexts_CDT.xml
+SHA1-Digest: fJO/N9LOKskDKG8S5FpcplwWBOw=
+
+Name: images/cdt_w_import21.png
+SHA1-Digest: +r/5URSt3zsv8TbVsUAR6hqMpgw=
+
+Name: images/new_make_disc_options.png
+SHA1-Digest: RPZ+lLe0mwOaLYuE8BtCj+9mHko=
+
+Name: images/class_obj.gif
+SHA1-Digest: vE7LuD+cHG8cLeoAY6QccsqOHYw=
+
+Name: images/cdt81/cdt_n_and_n_8_1_editor_gutter_menu.png
+SHA1-Digest: 3CkAcr9P7F2ajc+y/CDiN/x2GWU=
+
+Name: images/cdt81/cdt_debug_withhiding.png
+SHA1-Digest: WYQ5b2Kluj5MsyBHJPrp7E1kaes=
+
+Name: images/cdt_select_type.png
+SHA1-Digest: 37G3Cq25QWFgMxUsFWlsjGVJETc=
+
+Name: concepts/cdt_c_scanner_discovery.htm
+SHA1-Digest: 4SMlAN8kwZFzRcRm5F6+BzyTjJY=
+
+Name: tasks/cdt_t_autosave.htm
+SHA1-Digest: p4d4d8Z+F1r0yLqEdGdBMXYbEgc=
+
+Name: images/builder_settings.png
+SHA1-Digest: C80Lfz27PtVWMaafj7LFBnOV4BI=
+
+Name: images/80/UserAndCores.jpg
+SHA1-Digest: M4ymd0/Y/WkrLi37vYL1F+JS5JA=
+
+Name: images/debug_src_pref.png
+SHA1-Digest: LG1GmaptoODZX17t0pXp0ljII+k=
+
+Name: images/icon_build_all.png
+SHA1-Digest: jRCRXrKgUTOiv5VM/BJV8UF1Krk=
+
+Name: images/ng00_05a.gif
+SHA1-Digest: jaGEJABs2O1p3cC13ZFx9bO5TsA=
+
+Name: cheatsheets/cs_cdt_basic.xml
+SHA1-Digest: RZqAKAxxFkV5gY2kJ1TH1xjTo/U=
+
+Name: images/run_debug_launch_group.png
+SHA1-Digest: Llkvk7LAmBrZTeVq936G7w2j23g=
+
+Name: images/cdt_w_standard03.png
+SHA1-Digest: 4i6gGsW1Q5EkXe3dA7BPvknaPVw=
+
+Name: images/enum_obj.gif
+SHA1-Digest: h2J3rV9tJKR21j/yZ8jwR8IJl7w=
+
+Name: images/nn_codeFolding.png
+SHA1-Digest: P/E9ZjRZUkZ6Ij+JJYiPKw3vUbg=
+
+Name: images/icon_show_advanced_prop.png
+SHA1-Digest: UgOJ4H8zOxBNcexY4KZyoT3DEEc=
+
+Name: images/pref_panel_build.png
+SHA1-Digest: oK0sPoEgR8nZllLtGqkuXA2voas=
+
+Name: images/nn_mingw_debug.png
+SHA1-Digest: iltEvAdA8jIsTkv0TrtcVz1/cNk=
+
+Name: images/80/CDTCamelCaseCompletionDemo.png
+SHA1-Digest: YlGtc6WRfrOz65K06hVtXzwaZJE=
+
+Name: images/cpp_bld_settings_tool.png
+SHA1-Digest: f7DVbilYgwtlFguxZcflgZRisaA=
+
+Name: images/nn_call_hierarchy.png
+SHA1-Digest: 3ITQA/yyP7JQ5zxIon+bJM4GvO4=
+
+Name: images/view_modules.png
+SHA1-Digest: k0F1rWCRur/SlDnFFoHNtrx1hUU=
+
+Name: reference/cdt_u_prop_build.htm
+SHA1-Digest: l2G7TNPCAFXx1sGT73oeTXTPXsE=
+
+Name: reference/cdt_u_include_browser_view.htm
+SHA1-Digest: 38dkLTPCXXe6uAwBmMso888JcDc=
+
+Name: images/cdt_w_standard14.png
+SHA1-Digest: Fp55kvcm3qmRJ9wI6fkTF1nCdf0=
+
+Name: images/cdt_t_proj_new_with_template_2.png
+SHA1-Digest: Re76bJCTtTDff2d2zhKE9fJy630=
+
+Name: images/icon_forward.png
+SHA1-Digest: PFZif89I6k7JQNnb64lhYCtni64=
+
+Name: reference/cdt_u_mfile_build.htm
+SHA1-Digest: QgYTnFnEtF5XEQGl+I3zYKj+0iQ=
+
+Name: reference/cdt_u_fileprop_toolsettings.htm
+SHA1-Digest: 4KOnJBcejYjl1FJ0m7Ksuzp7AHM=
+
+Name: concepts/cdt_c_views.htm
+SHA1-Digest: K3oIT6/t0/jyPyRilG9a+F99BPM=
+
+Name: reference/cdt_u_makefile_settings_pref.htm
+SHA1-Digest: zbVH7WvMzvH6m8EhdxhvTRo/vEA=
+
+Name: images/icon_load_all_modules.png
+SHA1-Digest: ySV0ugiWdFVg5LcGMVvF0bhl0Vg=
+
+Name: images/80/MultiProducerConsumer.png
+SHA1-Digest: okJGhu5oRcT5POPTHVNm2zCA3OU=
+
+Name: images/run_debug_common.png
+SHA1-Digest: dRp/ojjySDoTw0qZ6eBDcVkzXvU=
+
+Name: images/icon_add_mem_monitor.png
+SHA1-Digest: WgVjghC3QIS1AshClvRH+E4tgqM=
+
+Name: images/cdt_dlg_edit_build_var.png
+SHA1-Digest: orBM1aEGTw+usShbgV4vk5thimI=
+
+Name: images/cdt_t_toggle_selection3.png
+SHA1-Digest: chSvcpAidpCQVqI5qbflaLB6DlY=
+
+Name: images/icon_last_edit_loc.png
+SHA1-Digest: fbwMfiI98fBSlkw36jM94WbxE8I=
+
+Name: images/prop_refs.png
+SHA1-Digest: dm2/PhFOnn3qZlL1lWvo8tQcr9c=
+
+Name: images/install_feature_updates.png
+SHA1-Digest: wD6cMn5nPQzdfqr1craHgfM/VMI=
+
+Name: reference/cdt_u_tasks_view.htm
+SHA1-Digest: Q5phlIcmdaz9/ztFpwG5dAHMXS4=
+
+Name: images/code_templates_edit.png
+SHA1-Digest: OLHOTDH++xpXnUmUDoPgunLM0i8=
+
+Name: images/cdt_t_toggle_selection.png
+SHA1-Digest: M2B3MRwV82K/tOq0MLdkAdMYiAE=
+
+Name: tasks/cdt_t_registers.htm
+SHA1-Digest: zNw6musyLkPLdGy1HmzZuYipjWo=
+
+Name: reference/cdt_u_mfile_info.htm
+SHA1-Digest: zNUOSG89MOH0CLYW2Qlq0uOAIA8=
+
+Name: images/prop_artifact.png
+SHA1-Digest: 7hrteBm53pV+sFXMrkPyQN0tVyo=
+
+Name: images/field_public_obj.gif
+SHA1-Digest: C1fpFjHb7o4K5BBq2ZxNOXeTgbk=
+
+Name: reference/cdt_u_c_editor_folding.htm
+SHA1-Digest: KWzArTxRMwq0CMXq3+f5GVww5VU=
+
+Name: images/cdt_file_inc.png
+SHA1-Digest: 7F5awyMLEBV24mvIICh4LIDuyh0=
+
+Name: images/manage_include_path.png
+SHA1-Digest: ujuw0nsecQvWunG5zPbJauIqeM4=
+
+Name: images/nn_taskTags.gif
+SHA1-Digest: 3V2dRsirrjCyvC06Jn0vKumyiSA=
+
+Name: images/mfile_build.PNG
+SHA1-Digest: cyGQggzA8YWW0i/++UcJ2YuW8cI=
+
+Name: reference/cdt_u_c_file_types.htm
+SHA1-Digest: ++jrkvASLU2ZcZ9h0IUpFrHWaLQ=
+
+Name: images/cdt81/cunittest_view.png
+SHA1-Digest: YnHZlUL9Qw8zRWEKVIHv8MLLOLA=
+
+Name: reference/cdt_u_newproj_behavior.htm
+SHA1-Digest: 6jqwNrC/VWtGbu8rXhwmejhwPaI=
+
+Name: images/nn_xlcOpt.gif
+SHA1-Digest: NXYNdJTJDqq74ZMNRxbFVnfgLoo=
+
+Name: reference/cdt_u_prop_refactoring_history.htm
+SHA1-Digest: mdVofg41yQD7422t1gXQAfi4Ufg=
+
+Name: images/cdt_w_import20.png
+SHA1-Digest: Q2YLieX6sUr1DIxzzM0GcVzuu7c=
+
+Name: images/cdt81/sd90entries.png
+SHA1-Digest: TGvhbfUHXDXXp2eaVnUyZMYax/g=
+
+Name: images/editor_save_actions_preferences.png
+SHA1-Digest: 8Va2x4ycXveFw2ryE7LTxsqy/f4=
+
+Name: images/icon_relaunch.gif
+SHA1-Digest: o/jyDK+n59ub4b5UpZKVzGF030Q=
+
+Name: images/icon_remove_all.gif
+SHA1-Digest: 8qYw/Sqie40I+d6bA5TN5Y3LxUE=
+
+Name: images/icon_show_next_reference.png
+SHA1-Digest: qssdqZ4qvHEmPkWSoTfnsa/oIU8=
+
+Name: contexts_CDT_DEBUGGER.xml
+SHA1-Digest: nU4IE488K+sDDFo8BYAImSGt1Bg=
+
+Name: images/nn_smartTypingPrefs.png
+SHA1-Digest: pMww0Gawrn8TMeg8Ef3ZoMSEyCI=
+
+Name: images/cpp_bld_environment.png
+SHA1-Digest: 8WtLRred8rQ2lQ2lLpwZEbVProk=
+
+Name: intro/cdtTutorial.xml
+SHA1-Digest: f/I4CB78dM/uFqsnIJndVF6U8mo=
+
+Name: images/view-linkWithEditor.png
+SHA1-Digest: QtSGX9Viv+boXgnmO8gz+Em4qHw=
+
+Name: images/icon_restore_default.png
+SHA1-Digest: Br5mXl7aIfJspyTWhzJZDD24t8E=
+
+Name: reference/cdt_o_new_sproj.htm
+SHA1-Digest: Q+kC81iT13i1qnSO5X5f4xSG4p4=
+
+Name: images/cdt_w_standard02.png
+SHA1-Digest: S5kNUFAd8gS8DorjGf68T43vaKs=
+
+Name: images/cdt_w_basic09.png
+SHA1-Digest: t9kMHPTvBMTHFNGOcFwZFqxqju4=
+
+Name: images/icon_show_categories.png
+SHA1-Digest: YG+rC7x39pIGvlgUXBy+WjaAWvE=
+
+Name: images/ng00_07.gif
+SHA1-Digest: k/+YEl4niP/o5oVRU4Y6lbWy4HA=
+
+Name: reference/cdt_u_c_pref.htm
+SHA1-Digest: SmfHrlOoy3VNZBZsmO7EzhM5q0Y=
+
+Name: images/prop_resource.png
+SHA1-Digest: JQ9RPyIYZeL8CEj0V8wZVdlj2OY=
+
+Name: concepts/cdt_c_content_assist.htm
+SHA1-Digest: lEQuKFU+DH8WfOoj74CNxDADE0E=
+
+Name: images/80/CDTOverrideMarkers.png
+SHA1-Digest: z2mt6So7I/56sxC19xD2ml0HZz4=
+
+Name: getting_started/cdt_o_tutorial.htm
+SHA1-Digest: W1TzNrXoZ/G2glZ3rfqsOa1sH+I=
+
+Name: images/cdt82/CDT-DSF-GDB-MulticoreVisualizer-LoadMeters-enabling
+ 2.png
+SHA1-Digest: nlaFmqtbolY4oi3zjhDR/5E0SCY=
+
+Name: images/run_debug_launch_group_edit.png
+SHA1-Digest: EMYwndskSE811pXyVc/5KeQ2Ayc=
+
+Name: reference/cdt_u_pref_prop_pages.htm
+SHA1-Digest: GTuvqGqNgT9lvN6ybWT/zdAQwWU=
+
+Name: images/prop_error.png
+SHA1-Digest: UR1wKUB+/gz44xYIq/hlca55nz4=
+
+Name: images/cdt_pref-multi-cfg.png
+SHA1-Digest: 4wDFpVnNNtRwcRz/PwoiuU6ZzXM=
+
+Name: images/cdt_w_standard13.png
+SHA1-Digest: rqyzbCnS9KXra7pBAGX/99oLfCA=
+
+Name: images/ng03_04.gif
+SHA1-Digest: led6cjRqZQ9MMtNqC66GEe4o0h0=
+
+Name: images/80/PinCloneDebug.png
+SHA1-Digest: N04r/K/ZOQ3YPckfxi6zPpAVBcs=
+
+Name: images/icon_save.png
+SHA1-Digest: V2ndijkS6riUKzpSAGbVllpSW7Y=
+
+Name: images/view-menu.png
+SHA1-Digest: bz2/XU1YKvHYK/rXrcjugwiy9RY=
+
+Name: images/icon_reset_mem_monitor.png
+SHA1-Digest: kmZQcOXSsPj07SavWIJeTyJkwbY=
+
+Name: images/cdt_menubar.png
+SHA1-Digest: 8tYyqX4RRowAh7+uoM+aXQKVQRw=
+
+Name: images/new_make-builder.png
+SHA1-Digest: BF4yIb5zt3gy30Vo7etBf2mHM1A=
+
+Name: images/cdt_t_proj_new_with_template_1.png
+SHA1-Digest: 285ZzZbcFR5CittviLNi89saheE=
+
+Name: concepts/cdt_c_whatsnew.htm
+SHA1-Digest: KGcLIlxSP3p9vV6YUdK30SbyePE=
+
+Name: images/prop_tc_edit.png
+SHA1-Digest: 2B1y58g/07pJyiphi295XtfqD6U=
+
+Name: images/nn_buildbtn.png
+SHA1-Digest: 2xR/+kFr4BrUvbXa0O8eAMqcjbw=
+
+Name: reference/cdt_u_icons.htm
+SHA1-Digest: TwdQlAJpn+KQA0lxEgqeRfZVHD0=
+
+Name: images/back.gif
+SHA1-Digest: ic98kETCOjmX/7YuRz5CuoO+1hc=
+
+Name: tasks/cdt_t_autobuild.htm
+SHA1-Digest: 7aRPiUBz7h1aWYyencswm7doARs=
+
+Name: images/view-collapseAll.png
+SHA1-Digest: vnOu9oKiTjwx7tXcvabl+44hL8I=
+
+Name: images/cdt_t_toggle_selection2.png
+SHA1-Digest: bn/p0zsJRLUayfk7aLfNhETO4fM=
+
+Name: reference/cdt_u_prop_manage_rendialog.htm
+SHA1-Digest: VcdMGn0svhkOfCcV/79MJxcmhD4=
+
+Name: images/view_memory.png
+SHA1-Digest: 2/1QasSJEb+viLVx+t+T+bjM7z4=
+
+Name: images/inactive_co.gif
+SHA1-Digest: HTFQjYv9ujO3h31EtVeZQuRqoEI=
+

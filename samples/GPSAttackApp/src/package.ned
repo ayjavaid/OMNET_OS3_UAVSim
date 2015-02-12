@@ -1,0 +1,3 @@
+package GPSAttackApp;
+
+@license(LGPL);

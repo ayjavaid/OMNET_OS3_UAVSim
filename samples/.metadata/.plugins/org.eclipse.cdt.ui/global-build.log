@@ -1,0 +1,17 @@
+17:01:34 **** Incremental Build of configuration gcc-debug for project inet ****
+make MODE=debug CONFIGNAME=gcc-debug -j8 all 
+cd src && make
+make[1]: Entering directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/inet/src'
+make[1]: Leaving directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/inet/src'
+17:01:38 **** Incremental Build of configuration gcc-debug for project CNI_OS3 ****
+make MODE=debug CONFIGNAME=gcc-debug all 
+cd src && make all
+make[1]: Entering directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/CNI_OS3/src'
+make[1]: Leaving directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/CNI_OS3/src'
+Creating shared library: out/gcc-debug//libCNI_OS3.so
+17:01:43 **** Incremental Build of configuration gcc-debug for project GPSAttackApp ****
+make MODE=debug CONFIGNAME=gcc-debug all 
+cd src && make all
+make[1]: Entering directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/GPSAttackApp/src'
+make[1]: Leaving directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/GPSAttackApp/src'
+Creating executable: out/gcc-debug//GPSAttackApp

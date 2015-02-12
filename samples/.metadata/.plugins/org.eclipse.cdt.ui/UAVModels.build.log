@@ -1,0 +1,5 @@
+17:01:02 **** Incremental Build of configuration gcc-debug for project UAVModels ****
+make MODE=debug CONFIGNAME=gcc-debug all 
+
+17:01:02 Build Finished (took 65ms)
+

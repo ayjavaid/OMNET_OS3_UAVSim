@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.cdt"
+      label="%featureName"
+      version="8.2.1.201309180223"
+      provider-name="%providerName"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <includes
+         id="org.eclipse.cdt.platform"
+         version="8.2.1.201309180223"/>
+
+   <includes
+         id="org.eclipse.cdt.gnu.build"
+         version="8.2.1.201309180223"/>
+
+   <includes
+         id="org.eclipse.cdt.gdb"
+         version="7.2.1.201309180223"/>
+
+   <includes
+         id="org.eclipse.cdt.gnu.debug"
+         version="7.2.0.201309180223"/>
+
+   <includes
+         id="org.eclipse.cdt.gnu.dsf"
+         version="4.2.0.201309180223"/>
+
+</feature>

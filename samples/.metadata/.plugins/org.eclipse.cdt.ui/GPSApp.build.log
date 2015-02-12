@@ -1,0 +1,9 @@
+17:01:26 **** Incremental Build of configuration gcc-debug for project GPSApp ****
+make MODE=debug CONFIGNAME=gcc-debug all 
+cd src && make all
+make[1]: Entering directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/GPSApp/src'
+make[1]: Leaving directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/GPSApp/src'
+Creating executable: out/gcc-debug//GPSApp
+
+17:01:26 Build Finished (took 266ms)
+

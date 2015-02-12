@@ -1,0 +1,3 @@
+package satellitemodel;
+
+@license(LGPL);

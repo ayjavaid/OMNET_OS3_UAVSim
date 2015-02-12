@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>UAVSim</name>
+	<comment></comment>
+	<projects>
+		<project>CNI_OS3</project>
+		<project>inet</project>
+		<project>UAVModels</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.omnetpp.cdt.MakefileBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.omnetpp.scave.builder.vectorfileindexer</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.omnetpp.main.omnetppnature</nature>
+	</natures>
+</projectDescription>

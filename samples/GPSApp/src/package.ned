@@ -1,0 +1,3 @@
+package GPSApp;
+
+@license(LGPL);

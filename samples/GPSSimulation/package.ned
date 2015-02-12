@@ -1,0 +1,3 @@
+package GPSSimulation;
+
+@license(LGPL);

@@ -1,0 +1,7 @@
+[General]
+network = NetTest
+
+**.limit = 5
+
+#**.tic[1].hopCount.result-recording-modes = +histogram
+#**.tic[0..2].hopCount.result-recording-modes = -vector

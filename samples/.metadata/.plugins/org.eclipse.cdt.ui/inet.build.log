@@ -1,0 +1,8 @@
+17:01:34 **** Incremental Build of configuration gcc-debug for project inet ****
+make MODE=debug CONFIGNAME=gcc-debug -j8 all 
+cd src && make
+make[1]: Entering directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/inet/src'
+make[1]: Leaving directory `/home/fjahan/Desktop/omnetpp-4.4.1/samples/inet/src'
+
+17:01:34 Build Finished (took 115ms)
+
