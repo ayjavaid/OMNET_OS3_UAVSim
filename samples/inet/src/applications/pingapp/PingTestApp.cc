@@ -108,7 +108,7 @@ void PingTestApp::handleMessage(cMessage *msg)
         {
             srcAddr = IPvXAddressResolver().resolve(par("srcAddr"));
             const char *destAddrs = par("destAddresses");
-            cout << "destination:  " << destAddrs;
+            //cout << "destination:  " << destAddrs;
             if (!strcmp(destAddrs, "host[*]"))
             {
                 destAddresses = getAllAddresses();
@@ -139,13 +139,13 @@ void PingTestApp::handleMessage(cMessage *msg)
             i = i % destAddresses.size();
             destAddr = destAddresses[i];
             EV << "Starting up: dest=" << destAddr << "  src=" << srcAddr << "seqNo=" << sendSeqNo << endl;
-            cout << "Starting up: dest=" << destAddr << "  src=" << srcAddr << "seqNo=" << sendSeqNo << endl;
+            //cout << "Starting up: dest=" << destAddr << "  src=" << srcAddr << "seqNo=" << sendSeqNo << endl;
             ASSERT(!destAddr.isUnspecified());
         }
 
         // send a ping
         sendPing();
-        cout << "Send ping";
+        //cout << "Send ping";
         // then schedule next one if needed
         scheduleNextPing(msg);
     }
@@ -174,20 +174,20 @@ std::vector<IPvXAddress> PingTestApp::getAllAddresses()
             {
                 InterfaceEntry *ie = ift->getInterface(j);
                 if (ie && !ie->isLoopback())
-                { cout<<" i m here"<<ie->ipv4Data()<<endl;
+                { //cout<<" i m here"<<ie->ipv4Data()<<endl;
 #ifdef WITH_IPv4
 
                     if (ie->ipv4Data())
                     {
-                        cout<<" inside IPv4"<<endl;
+                        //cout<<" inside IPv4"<<endl;
                         IPv4Address address = ie->ipv4Data()->getIPAddress();
                         if (!address.isUnspecified())
                             result.push_back(IPvXAddress(address));
                     }
-                    cout << "I am Niyaz"<<endl ;
+                    //cout << "I am Niyaz"<<endl ;
 #endif
 #ifdef WITH_IPv6
-                    cout<<"I am quamar"<<endl ;
+                    //cout<<"I am quamar"<<endl ;
                     if (ie->ipv6Data())
                     {
                         for (int k=0; k < ie->ipv6Data()->getNumAddresses(); k++)
@@ -208,7 +208,7 @@ std::vector<IPvXAddress> PingTestApp::getAllAddresses()
 void PingTestApp::sendPing()
 {
     EV << "Sending ping #" << sendSeqNo << "\n";
-    cout <<  "Sending ping #" << sendSeqNo << "\n";
+    //cout <<  "Sending ping #" << sendSeqNo << "\n";
     char name[32];
     sprintf(name, "ping%ld", sendSeqNo);
 
@@ -239,7 +239,7 @@ void PingTestApp::scheduleNextPing(cMessage *timer)
 
 void PingTestApp::sendToICMP(cMessage *msg, const IPvXAddress& destAddr, const IPvXAddress& srcAddr, int hopLimit)
 {
-    cout << "Reached Icmp";
+    //cout << "Reached Icmp";
     if (!destAddr.isIPv6())
     {
 #ifdef WITH_IPv4
@@ -273,7 +273,7 @@ void PingTestApp::sendToICMP(cMessage *msg, const IPvXAddress& destAddr, const I
 
 void PingTestApp::processPingResponse(PingPayload *msg)
 {
-    cout << "Processing response" << endl;
+    //cout << "Processing response" << endl;
     // get src, hopCount etc from packet, and print them
     IPvXAddress src, dest;
     int msgHopCount = -1;
