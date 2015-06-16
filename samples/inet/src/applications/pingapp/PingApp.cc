@@ -90,8 +90,8 @@ void PingApp::initialize(int stage)
     {
         // startup
         nodeStatus = dynamic_cast<NodeStatus *>(findContainingNode(this)->getSubmodule("status"));
-        cout << "status is enabled?:" << isEnabled() ;  //added by farha  5.26.2014
-        cout << "is node up?:" << isNodeUp() ;    // added by farha  5.26.2014
+        //cout << "status is enabled?:" << isEnabled() ;  //added by farha  5.26.2014
+        //cout << "is node up?:" << isNodeUp() ;    // added by farha  5.26.2014
         if (isEnabled() && isNodeUp())
             startSendingPingRequests();
     }
