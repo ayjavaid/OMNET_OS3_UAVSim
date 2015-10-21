@@ -2,3 +2,13 @@ This directory contains several simulation models to demonstrate the features of
 
 The source code for all models are provided for you to study. While we have done our best to comment the sources, it is probably necessary to browse
 through the Manual before you try to understand them. You might also find the simulation kernel API reference useful.
+
+Folders are briefly described here:
+1. CNI_OS3 - Contains the Open Source Satellite Simulator Module.
+2. GPSApp	- Contains the higher level GPS Application designed by our team.
+3. GPSAttackApp	- Contains the GPS Attack application. Includes Specific GPS related atttacks such as GPS Jamming ans Spoofing.
+4. GPSSimulation - Contains the GPS Network Simulation Application. It invokes GPSApp to calculate locations.
+5. SatelliteModel - Contains the Satellite Model designed by our team which tranmists GPS Signals.
+6. UAVModels - Contains various UAV Models.
+7. UAVSim	- Contains various network setup related files.
+8. inet - Independently available module which has implementation of all wireless communication protocols.
