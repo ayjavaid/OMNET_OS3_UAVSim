@@ -2,7 +2,7 @@
 
 9/25/2018: Please note that this project is no longer under development and might not work with newer versions of OMNeT++ and INET.
 
-This project is aimed at developing a test-bed simulator for the UAV Network and it is called UAVSim. The name above indicates that it is based on OMNET++ and uses OS3 for its Satellite Communication Implementation. It is well known that requirements for such a simulator are quite different compared to usual network simulators and hence requires development of a separate simulator.
+8/15/2015: This project is aimed at developing a test-bed simulator for the UAV Network and it is called UAVSim. The name above indicates that it is based on OMNET++ and uses OS3 for its Satellite Communication Implementation. It is well known that requirements for such a simulator are quite different compared to usual network simulators and hence requires development of a separate simulator.
 
 The test-bed enables  users and designers of the UAV systems to test their designs and different modules they want to develop for an UAV. Usually, before deployment of any particular module or system, we need to test its feasibility in terms of use, cost and safety. This simulator can be used for this purpose and hence, saves a lot of money and time. It also helps us in determining the shortcomings of the designed system and can give us an insight in possible improvements by showing the impact of the flaws. 
 
